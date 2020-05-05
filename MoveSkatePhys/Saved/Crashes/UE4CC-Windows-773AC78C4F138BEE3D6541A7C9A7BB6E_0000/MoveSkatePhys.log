@@ -1,0 +1,1322 @@
+﻿Log file open, 05/05/20 14:09:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MoveSkatePhys
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.085045
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 1600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Griff_Ladd -epicuserid=7e4c4c62acb44f19bddbfb2a4922e6b3 -epiclocale=en
+LogInit: Base Directory: D:/Program Files (x86)/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.05-02.09.48:380][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.05-02.09.48:380][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.05-02.09.48:380][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.05.05-02.09.48:380][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.05-02.09.48:380][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.05.05-02.09.48:380][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.05.05-02.09.48:380][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.05-02.09.48:380][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.05-02.09.48:380][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.05-02.09.48:381][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.05.05-02.09.48:381][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.05.05-02.09.48:385][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:385][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.05-02.09.48:386][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.05-02.09.48:387][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.05-02.09.48:387][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.05-02.09.48:387][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.05-02.09.48:390][  0]LogHAL: Display: Platform has ~ 16 GB [17111674880 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.05-02.09.48:390][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.05-02.09.48:390][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.05-02.09.48:390][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.05-02.09.48:391][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.05-02.09.48:392][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.05-02.09.48:392][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.05-02.09.48:392][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.05.05-02.09.48:392][  0]LogInit: Computer: DESKTOP-9SEVMK7
+[2020.05.05-02.09.48:392][  0]LogInit: User: Playtech
+[2020.05.05-02.09.48:392][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.05-02.09.48:392][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.05-02.09.48:392][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.05-02.09.48:392][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.05-02.09.48:392][  0]LogMemory: Process Physical Memory: 113.67 MB used, 113.68 MB peak
+[2020.05.05-02.09.48:392][  0]LogMemory: Process Virtual Memory: 106.08 MB used, 106.08 MB peak
+[2020.05.05-02.09.48:392][  0]LogMemory: Physical Memory: 7488.59 MB used,  8830.37 MB free, 16318.96 MB total
+[2020.05.05-02.09.48:392][  0]LogMemory: Virtual Memory: 5201.82 MB used,  134212528.00 MB free, 134217728.00 MB total
+[2020.05.05-02.09.48:396][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.05-02.09.48:415][  0]LogInit: Using OS detected language (en-GB).
+[2020.05.05-02.09.48:415][  0]LogInit: Using OS detected locale (en-NZ).
+[2020.05.05-02.09.48:416][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.05.05-02.09.48:584][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.05-02.09.48:625][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.05-02.09.48:625][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.05-02.09.48:822][  0]LogHMD: Failed to initialize OpenVR with code 117
+[2020.05.05-02.09.48:822][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.05-02.09.48:822][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.05-02.09.48:822][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.05-02.09.48:898][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.05.05-02.09.48:898][  0]LogD3D11RHI:       6052/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.05-02.09.48:901][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.05-02.09.48:901][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.05-02.09.48:901][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.05-02.09.48:911][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.05-02.09.48:911][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.05-02.09.48:912][  0]LogWindows: EnumDisplayDevices:
+[2020.05.05-02.09.48:912][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.05.05-02.09.48:912][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.05.05-02.09.48:912][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.05-02.09.48:912][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.05-02.09.48:913][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.05-02.09.48:913][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.05.05-02.09.48:913][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.05.05-02.09.48:913][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.05.05-02.09.48:913][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.05.05-02.09.48:968][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.05-02.09.48:968][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.05-02.09.49:036][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.05-02.09.49:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.05-02.09.49:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.05-02.09.49:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.05-02.09.49:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.05-02.09.49:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.05-02.09.49:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.05-02.09.49:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.05-02.09.49:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.05-02.09.49:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.05-02.09.49:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.05-02.09.49:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.05-02.09.49:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.05-02.09.49:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.05-02.09.49:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.05-02.09.49:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.05-02.09.49:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.05-02.09.49:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.05-02.09.49:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.05-02.09.49:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.05-02.09.49:502][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.05-02.09.49:504][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.05-02.09.49:523][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Intermediate/Shaders/WorkingDirectory/15796/).
+[2020.05.05-02.09.49:523][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Playtech/AppData/Local/Temp/UnrealShaderWorkingDir/B973336F4109ED8649ADC294EA9ED695/'.
+[2020.05.05-02.09.49:524][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.05-02.09.49:524][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.05-02.09.49:524][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.05-02.09.50:307][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.05-02.09.50:359][  0]LogDerivedDataCache: Loaded boot cache 0.05s 81MB C:/Users/Playtech/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.05-02.09.50:359][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Playtech/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.05-02.09.50:359][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.05-02.09.50:359][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.05-02.09.50:359][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.05-02.09.50:359][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.05-02.09.50:371][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.05-02.09.50:371][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.05-02.09.50:371][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.05-02.09.50:372][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Playtech/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.05-02.09.50:372][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.05-02.09.50:372][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.05-02.09.50:401][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.05-02.09.50:405][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.05-02.09.50:405][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.05-02.09.50:461][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2020.05.05-02.09.50:787][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.05-02.09.50:953][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.05-02.09.50:953][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.05-02.09.50:953][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.05-02.09.50:953][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.05-02.09.50:953][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.05-02.09.50:970][  0]LogNetVersion: MoveSkatePhys 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1295155464)
+[2020.05.05-02.09.52:199][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.044208 seconds
+[2020.05.05-02.09.52:209][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.05-02.09.52:209][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.05-02.09.52:209][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.05-02.09.52:666][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.05-02.09.52:670][  0]LogUdpMessaging: Initializing bridge on interface 25.22.61.211:0 to multicast group 234.0.0.1:6666.
+[2020.05.05-02.09.52:670][  0]FUdpSocketBuilder: Failed to bind UdpMessageUnicastSocket to 25.22.61.211:0
+[2020.05.05-02.09.52:670][  0]FUdpSocketBuilder: Failed to configure multicast for UdpMessageUnicastSocket (loopback: 1, ttl: 1)
+[2020.05.05-02.09.52:670][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageUnicastSocket (last error: 0)
+[2020.05.05-02.09.52:670][  0]LogUdpMessaging: Error: StartTransport failed to create unicast socket on 25.22.61.211:0
+[2020.05.05-02.09.52:743][  0]SourceControl: Source control is disabled
+[2020.05.05-02.09.52:743][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.05-02.09.52:743][  0]LogWindows: Warning: URL: D:/Users/boedi.par8520/AppData/Local/GitHubDesktop/app-2.3.1/resources/app/git/cmd/git.exe version
+[2020.05.05-02.09.52:744][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.05-02.09.52:744][  0]LogWindows: Warning: URL: D:/Users/boedi.par8520/AppData/Local/GitHubDesktop/app-2.3.1/resources/app/git/cmd/git.exe version
+[2020.05.05-02.09.52:745][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.05-02.09.52:745][  0]LogWindows: Warning: URL: D:/Users/boedi.par8520/AppData/Local/GitHubDesktop/app-2.3.1/resources/app/git/cmd/git.exe version
+[2020.05.05-02.09.52:746][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.05-02.09.52:746][  0]LogWindows: Warning: URL: D:/Users/boedi.par8520/AppData/Local/GitHubDesktop/app-2.3.1/resources/app/git/cmd/git.exe version
+[2020.05.05-02.09.52:832][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.05-02.09.52:845][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.05-02.09.52:845][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.05-02.09.52:943][  0]LogOcInput: OculusInput pre-init called
+[2020.05.05-02.09.53:567][  0]LogEngine: Initializing Engine...
+[2020.05.05-02.09.53:620][  0]LogHMD: Failed to initialize OpenVR with code 117
+[2020.05.05-02.09.53:621][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.05-02.09.54:002][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.05-02.09.54:009][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.05-02.09.54:098][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-02.09.54:098][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-02.09.54:098][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-02.09.54:098][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-02.09.54:098][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-02.09.54:098][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-02.09.54:098][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-02.09.54:098][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-02.09.54:098][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-02.09.54:098][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-02.09.54:120][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-02.09.54:120][  0]LogAudioMixer: Display: Name: Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.09.54:120][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-02.09.54:120][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-02.09.54:120][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.05-02.09.54:120][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.05-02.09.54:120][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.05-02.09.54:120][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-02.09.54:121][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-02.09.54:121][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.05-02.09.54:121][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.05-02.09.54:121][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.05.05-02.09.54:121][  0]LogAudioMixer: Display: 5: BackRight
+[2020.05.05-02.09.54:121][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.05.05-02.09.54:121][  0]LogAudioMixer: Display: 7: SideRight
+[2020.05.05-02.09.54:155][  0]LogAudioMixer: Display: Using Audio Device Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.09.54:161][  0]LogInit: FAudioDevice initialized.
+[2020.05.05-02.09.54:161][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.05-02.09.54:356][  0]LogDerivedDataCache: Saved boot cache 0.19s 81MB C:/Users/Playtech/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.05-02.09.54:356][  0]LogInit: Texture streaming: Enabled
+[2020.05.05-02.09.54:367][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.05-02.09.54:367][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.05-02.09.54:368][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.05-02.09.54:411][  0]LogInit: Transaction tracking system initialized
+[2020.05.05-02.09.54:421][  0]BlueprintLog: New page: Editor Load
+[2020.05.05-02.09.54:447][  0]LocalizationService: Localization service is disabled
+[2020.05.05-02.09.54:755][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Content/' took 0.00s
+[2020.05.05-02.09.54:755][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.05-02.09.54:755][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.05-02.09.55:398][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.05-02.09.55:398][  0]LogWindows: Warning: URL: D:/Users/boedi.par8520/AppData/Local/GitHubDesktop/app-2.3.1/resources/app/git/cmd/git.exe version
+[2020.05.05-02.09.55:398][  0]Cmd: MAP LOAD FILE="F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Content/Levels/Simple_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.05-02.09.55:398][  0]LightingResults: New page: Lighting Build
+[2020.05.05-02.09.55:399][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-02.09.55:399][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.09.55:399][  0]MapCheck: New page: Map Check
+[2020.05.05-02.09.55:399][  0]LightingResults: New page: Lighting Build
+[2020.05.05-02.09.55:443][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.05.05-02.09.56:664][  0]LogAIModule: Creating AISystem for world Simple_Test
+[2020.05.05-02.09.56:687][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.05-02.09.56:817][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.05.05-02.09.56:818][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.05-02.09.56:818][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.165ms to complete.
+[2020.05.05-02.09.56:818][  0]LogFileHelpers: Loading map 'Simple_Test' took 1.419
+[2020.05.05-02.09.56:953][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.09.56:962][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.09.56:970][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.09.56:977][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.09.56:983][  0]LogCollectionManager: Loaded 0 collections in 0.001929 seconds
+[2020.05.05-02.09.56:998][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Collections/' took 0.00s
+[2020.05.05-02.09.56:998][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Content/Developers/Playtech/Collections/' took 0.00s
+[2020.05.05-02.09.56:998][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Content/Collections/' took 0.00s
+[2020.05.05-02.09.56:998][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 3025 classes and 735 folders.
+[2020.05.05-02.09.57:000][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.05-02.09.57:056][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.05-02.09.57:061][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.05.05-02.09.57:211][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.05-02.09.57:213][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.05-02.09.57:219][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.05-02.09.57:301][  0]LogRenderer: Reallocating scene render targets to support 1204x576 Format 10 NumSamples 1 (Frame:1).
+[2020.05.05-02.09.57:499][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.05-02.09.57:499][  0]LogLoad: (Engine Initialization) Total time: 11.84 seconds
+[2020.05.05-02.09.57:499][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.05-02.09.57:549][  0]LogAssetRegistry: Asset discovery search completed in 7.0887 seconds
+[2020.05.05-02.09.57:553][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.05.05-02.09.57:554][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.05-02.09.57:574][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.05-02.10.02:582][577]LogFileCache: Retrieving MD5 hashes for directory 'F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Content/' took 5.07s
+[2020.05.05-02.22.39:043][389]LogSlate: Window 'Tutorials' being destroyed
+[2020.05.05-02.22.39:105][389]LogSlate: Window 'Tutorials' being destroyed
+[2020.05.05-02.22.50:809][582]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Switch Weapon' for  InputAction Switch Weapon
+[2020.05.05-02.22.50:809][582]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Reload' for  InputAction Reload
+[2020.05.05-02.22.50:809][582]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2020.05.05-02.22.50:818][582]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.05.05-02.22.50:818][582]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.05.05-02.22.50:818][582]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.05.05-02.22.50:818][582]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.05.05-02.22.51:289][582]LogTexture: Display: Building textures: Shotgun (AutoDXT, 512X512)
+[2020.05.05-02.22.51:289][582]LogTexture: Display: Building textures: Glock_D (AutoDXT, 1024X1024)
+[2020.05.05-02.22.51:289][582]LogMaterial: Display: Missing cached shader map for material Glock_D_Mat, compiling. 
+[2020.05.05-02.22.51:357][582]LogSkeletalMesh: Building Skeletal Mesh Glock_Rigged...
+[2020.05.05-02.22.51:439][582]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2020.05.05-02.22.51:439][582]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2020.05.05-02.22.51:439][582]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.05.05-02.22.51:439][582]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.05.05-02.22.51:439][582]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.05.05-02.22.51:439][582]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.05.05-02.22.51:439][582]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.05.05-02.22.51:439][582]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.05.05-02.22.51:439][582]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/FirstPersonBP/Guns/GlockModel_Anims/Glock_Rigged.Glock_Rigged
+[2020.05.05-02.22.51:528][582]LogSkeletalMesh: Building Skeletal Mesh FutureGun01a...
+[2020.05.05-02.22.51:817][582]LogSkeletalMesh: Built Skeletal Mesh [0.29s] /Game/FirstPersonBP/Guns/FutureGunsModels/FutureGun01a.FutureGun01a
+[2020.05.05-02.22.51:830][582]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave 477206__mattiagiovanetti__some-laser-gun-shots-i-_AudioTrimmer_com_...
+[2020.05.05-02.22.51:871][582]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FirstPersonBP/Sounds/WeaponEffects/477206__mattiagiovanetti__some-laser-gun-shots-i-_AudioTrimmer_com_.477206__mattiagiovanetti__some-laser-gun-shots-i-_AudioTrimmer_com_ will be modified from 40 to 40.
+[2020.05.05-02.22.52:024][582]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 289920 while cooking SoundWave /Game/FirstPersonBP/Sounds/WeaponEffects/477206__mattiagiovanetti__some-laser-gun-shots-i-_AudioTrimmer_com_.477206__mattiagiovanetti__some-laser-gun-shots-i-_AudioTrimmer_com_.
+[2020.05.05-02.22.52:033][582]LogMaterial: Display: Missing cached shader map for material Shotgun_Mat, compiling. 
+[2020.05.05-02.22.52:244][582]LogEditorViewport: Clicking on Actor (LMB): LoadUnloadMesh_C (LoadUnloadMesh2)
+[2020.05.05-02.22.52:871][599]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2020.05.05-02.22.53:589][642]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2020.05.05-02.22.53:713][649]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2020.05.05-02.22.53:713][649]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2020.05.05-02.22.53:732][650]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.05.05-02.22.53:764][652]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2020.05.05-02.22.53:872][659]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2020.05.05-02.22.54:552][699]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.05.05-02.22.54:725][708]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.05.05-02.22.55:166][733]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2020.05.05-02.22.55:198][735]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.05.05-02.22.55:232][737]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.05.05-02.22.55:562][756]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.05.05-02.22.55:629][760]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.05.05-02.22.55:644][761]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.05.05-02.22.55:719][766]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.05.05-02.22.55:798][771]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.05.05-02.22.58:593][ 63]LogEditorViewport: Clicking on Actor (LMB): LoadUnloadMesh_C (LoadUnloadMesh2)
+[2020.05.05-02.22.58:730][ 75]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (R2)
+[2020.05.05-02.22.59:042][105]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (R2)
+[2020.05.05-02.22.59:693][160]LogEditorViewport: Clicking on Actor (double click): LoadUnloadMesh_C (LoadUnloadMesh2)
+[2020.05.05-02.23.00:271][163]LogEditorViewport: Clicking on Actor (LMB): LoadUnloadMesh_C (LoadUnloadMesh2)
+[2020.05.05-02.23.02:205][346]LogLinker: Warning: Failed to load '/Game/Geometry/Meshes/CubeMaterial': Can't find file.
+[2020.05.05-02.23.02:205][346]LogLinker: Warning: Failed to load '/Game/Geometry/Meshes/CubeMaterial': Can't find file.
+[2020.05.05-02.23.02:205][346]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Geometry/Meshes/CubeMaterial.CubeMaterial'
+[2020.05.05-02.23.02:205][346]LogLinker: Warning: Failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
+[2020.05.05-02.23.02:206][346]LogLinker: Warning: Failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
+[2020.05.05-02.23.02:206][346]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Geometry/Meshes/1M_Cube.1M_Cube'
+[2020.05.05-02.23.02:206][346]LogLinker: Warning: Failed to load '/Game/Geometry/Meshes/TemplateFloor': Can't find file.
+[2020.05.05-02.23.02:206][346]LogLinker: Warning: Failed to load '/Game/Geometry/Meshes/TemplateFloor': Can't find file.
+[2020.05.05-02.23.02:206][346]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Geometry/Meshes/TemplateFloor.TemplateFloor'
+[2020.05.05-02.23.02:607][386]LogEditorViewport: Clicking on Actor (LMB): LoadUnloadMesh_C (LoadUnloadMesh2)
+[2020.05.05-02.23.03:776][498]LogUObjectGlobals: Warning: Failed to find object 'Object None.LevelToolbarPlay'
+[2020.05.05-02.23.06:735][824]LogSlate: Window 'Tutorials' being destroyed
+[2020.05.05-02.23.06:740][824]LogSlate: Window 'Tutorials' being destroyed
+[2020.05.05-02.23.27:670][764]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.05-02.23.50:885][802]Cmd: DELETE
+[2020.05.05-02.23.50:885][802]Cmd: ACTOR DELETE
+[2020.05.05-02.23.50:892][802]LogEditorActor: Deleted Actor: PlayerStart
+[2020.05.05-02.23.50:940][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.05.05-02.23.50:943][802]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2020.05.05-02.23.59:952][865]LogEditorViewport: Clicking on Actor (LMB): LoadUnloadMesh_C (LoadUnloadMesh2)
+[2020.05.05-02.24.00:477][925]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.05.05-02.24.03:908][233]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-02.24.03:920][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-02.24.03:920][233]PIE: New page: PIE session: Simple_Test (6/05/2020, 2:24:03 am)
+[2020.05.05-02.24.03:921][233]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.05-02.24.03:922][233]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.05-02.24.03:922][233]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.24.03:946][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023683s)
+[2020.05.05-02.24.03:947][233]LogAIModule: Creating AISystem for world Simple_Test
+[2020.05.05-02.24.03:947][233]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2020.05.05-02.24.03:947][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Simple_Test.Simple_Test to /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test (0.025000s)
+[2020.05.05-02.24.03:988][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.05.05-02.24.03:989][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-02.24.03:990][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-02.24.03:990][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-02.24.03:990][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-02.24.03:990][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-02.24.03:990][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-02.24.03:990][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-02.24.03:990][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-02.24.03:990][233]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-02.24.03:990][233]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-02.24.04:003][233]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-02.24.04:003][233]LogAudioMixer: Display: Name: Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.24.04:003][233]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-02.24.04:003][233]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-02.24.04:003][233]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.05-02.24.04:003][233]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.05-02.24.04:003][233]LogAudioMixer: Display: Channel Order:
+[2020.05.05-02.24.04:004][233]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-02.24.04:004][233]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-02.24.04:004][233]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.05-02.24.04:004][233]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.05-02.24.04:004][233]LogAudioMixer: Display: 4: BackLeft
+[2020.05.05-02.24.04:004][233]LogAudioMixer: Display: 5: BackRight
+[2020.05.05-02.24.04:004][233]LogAudioMixer: Display: 6: SideLeft
+[2020.05.05-02.24.04:004][233]LogAudioMixer: Display: 7: SideRight
+[2020.05.05-02.24.04:023][233]LogAudioMixer: Display: Using Audio Device Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.24.04:024][233]LogInit: FAudioDevice initialized.
+[2020.05.05-02.24.04:041][233]LogLoad: Game class is 'RollerGameMode_C'
+[2020.05.05-02.24.04:044][233]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test up for play (max tick rate 0) at 2020.05.05-14.24.04
+[2020.05.05-02.24.04:045][233]LogWorld: Bringing up level for play took: 0.003370
+[2020.05.05-02.24.04:045][233]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.05.05-02.24.04:048][233]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.05.05-02.24.04:050][233]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Simple_Test -0.44
+[2020.05.05-02.24.15:889][643]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.24.15:909][643]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.05-02.24.15:929][643]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.05-02.24.15:929][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.24.15:929][643]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.24.15:929][643]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.24.15:930][643]LogWorld: UWorld::CleanupWorld for Simple_Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-02.24.15:930][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.24.15:936][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-02.24.15:940][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.24.15:981][643]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.24.15:984][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.24.15:989][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.05.05-02.24.16:008][644]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.05.05-02.24.33:832][975]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.05-02.24.36:331][114]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.05.05-02.24.36:519][114]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.05-02.24.37:558][114]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.05-02.24.42:951][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.05.05-02.24.43:069][526]LogSavePackage: Moving 'F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Simple_Test_Auto17CB08B864CAA5841D3E2DEBA6D31314A.tmp' to 'F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Autosaves/Game/Levels/Simple_Test_Auto1.umap'
+[2020.05.05-02.24.43:070][526]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Simple_Test' took 0.173
+[2020.05.05-02.24.43:070][526]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.173
+[2020.05.05-02.24.50:070][ 64]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.05.05-02.24.50:082][ 64]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Switch Weapon' for  InputAction Switch Weapon
+[2020.05.05-02.24.50:082][ 64]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Reload' for  InputAction Reload
+[2020.05.05-02.24.50:082][ 64]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2020.05.05-02.24.50:082][ 64]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.05.05-02.24.50:083][ 64]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.05.05-02.24.50:083][ 64]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.05.05-02.24.50:083][ 64]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.05.05-02.24.50:474][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.05.05-02.25.29:868][929]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-02.25.29:879][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-02.25.29:880][929]PIE: New page: PIE session: Simple_Test (6/05/2020, 2:25:29 am)
+[2020.05.05-02.25.29:880][929]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.25.29:903][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023335s)
+[2020.05.05-02.25.29:904][929]LogAIModule: Creating AISystem for world Simple_Test
+[2020.05.05-02.25.29:904][929]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2020.05.05-02.25.29:904][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Simple_Test.Simple_Test to /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test (0.024497s)
+[2020.05.05-02.25.29:948][929]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.05.05-02.25.29:950][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-02.25.29:950][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-02.25.29:950][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-02.25.29:950][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-02.25.29:950][929]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-02.25.29:950][929]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-02.25.29:950][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-02.25.29:950][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-02.25.29:951][929]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-02.25.29:951][929]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: Name: Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: Channel Order:
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: 4: BackLeft
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: 5: BackRight
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: 6: SideLeft
+[2020.05.05-02.25.29:963][929]LogAudioMixer: Display: 7: SideRight
+[2020.05.05-02.25.29:979][929]LogAudioMixer: Display: Using Audio Device Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.25.29:981][929]LogInit: FAudioDevice initialized.
+[2020.05.05-02.25.29:989][929]LogLoad: Game class is 'RollerGameMode_C'
+[2020.05.05-02.25.29:993][929]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test up for play (max tick rate 0) at 2020.05.05-14.25.29
+[2020.05.05-02.25.29:993][929]LogWorld: Bringing up level for play took: 0.003348
+[2020.05.05-02.25.29:993][929]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.05.05-02.25.29:997][929]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Simple_Test -0.494
+[2020.05.05-02.25.34:513][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.25.34:513][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.25.34:513][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.25.34:513][281]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.25.34:513][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.25.34:514][281]LogWorld: UWorld::CleanupWorld for Simple_Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-02.25.34:514][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.25.34:531][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-02.25.34:536][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.25.34:585][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.25.34:589][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.25.34:594][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.05.05-02.25.34:684][282]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.05.05-02.27.00:391][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Moon1b)
+[2020.05.05-02.28.55:182][369]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-02.28.55:193][369]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.05-02.28.55:198][369]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2020.05.05-02.28.55:203][369]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Switch Weapon' for  InputAction Switch Weapon
+[2020.05.05-02.28.55:203][369]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Reload' for  InputAction Reload
+[2020.05.05-02.28.55:204][369]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2020.05.05-02.28.55:204][369]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.05.05-02.28.55:204][369]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.05.05-02.28.55:729][369]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.05.05-02.28.55:731][369]LogPlayLevel: PlayLevel: Blueprint regeneration took 537 ms (1 blueprints)
+[2020.05.05-02.28.55:731][369]PIE: New page: PIE session: Simple_Test (6/05/2020, 2:28:55 am)
+[2020.05.05-02.28.55:732][369]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.28.55:756][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023719s)
+[2020.05.05-02.28.55:757][369]LogAIModule: Creating AISystem for world Simple_Test
+[2020.05.05-02.28.55:757][369]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2020.05.05-02.28.55:757][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Simple_Test.Simple_Test to /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test (0.024870s)
+[2020.05.05-02.28.55:812][369]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.05.05-02.28.55:813][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-02.28.55:813][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-02.28.55:813][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-02.28.55:813][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-02.28.55:813][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-02.28.55:813][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-02.28.55:813][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-02.28.55:813][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-02.28.55:813][369]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-02.28.55:813][369]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: Name: Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: Channel Order:
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: 4: BackLeft
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: 5: BackRight
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: 6: SideLeft
+[2020.05.05-02.28.55:826][369]LogAudioMixer: Display: 7: SideRight
+[2020.05.05-02.28.55:842][369]LogAudioMixer: Display: Using Audio Device Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.28.55:844][369]LogInit: FAudioDevice initialized.
+[2020.05.05-02.28.55:856][369]LogLoad: Game class is 'RollerGameMode_C'
+[2020.05.05-02.28.55:858][369]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test up for play (max tick rate 0) at 2020.05.05-14.28.55
+[2020.05.05-02.28.55:859][369]LogWorld: Bringing up level for play took: 0.002983
+[2020.05.05-02.28.55:859][369]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.05.05-02.28.55:862][369]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Simple_Test 1.371
+[2020.05.05-02.28.55:945][370]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095869 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_2', movement 'Walking'
+[2020.05.05-02.29.04:206][129]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.29.04:206][129]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.29.04:206][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.29.04:206][129]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.29.04:206][129]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.29.04:206][129]LogWorld: UWorld::CleanupWorld for Simple_Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-02.29.04:207][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.29.04:228][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-02.29.04:234][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.29.04:279][129]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.29.04:282][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.29.04:287][129]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.05.05-02.29.04:361][130]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.05.05-02.29.27:883][201]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-02.29.27:894][201]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.05-02.29.27:899][201]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2020.05.05-02.29.27:904][201]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Switch Weapon' for  InputAction Switch Weapon
+[2020.05.05-02.29.27:904][201]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Reload' for  InputAction Reload
+[2020.05.05-02.29.27:904][201]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2020.05.05-02.29.27:904][201]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.05.05-02.29.27:905][201]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.05.05-02.29.28:371][201]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.05.05-02.29.28:374][201]LogPlayLevel: PlayLevel: Blueprint regeneration took 479 ms (1 blueprints)
+[2020.05.05-02.29.28:374][201]PIE: New page: PIE session: Simple_Test (6/05/2020, 2:29:28 am)
+[2020.05.05-02.29.28:374][201]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.29.28:397][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023356s)
+[2020.05.05-02.29.28:398][201]LogAIModule: Creating AISystem for world Simple_Test
+[2020.05.05-02.29.28:398][201]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2020.05.05-02.29.28:398][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Simple_Test.Simple_Test to /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test (0.024461s)
+[2020.05.05-02.29.28:447][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.05.05-02.29.28:447][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-02.29.28:447][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-02.29.28:447][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-02.29.28:447][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-02.29.28:447][201]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-02.29.28:447][201]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-02.29.28:448][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-02.29.28:448][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-02.29.28:448][201]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-02.29.28:448][201]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: Name: Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: Channel Order:
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: 4: BackLeft
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: 5: BackRight
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: 6: SideLeft
+[2020.05.05-02.29.28:461][201]LogAudioMixer: Display: 7: SideRight
+[2020.05.05-02.29.28:478][201]LogAudioMixer: Display: Using Audio Device Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.29.28:479][201]LogInit: FAudioDevice initialized.
+[2020.05.05-02.29.28:490][201]LogLoad: Game class is 'RollerGameMode_C'
+[2020.05.05-02.29.28:493][201]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test up for play (max tick rate 0) at 2020.05.05-14.29.28
+[2020.05.05-02.29.28:494][201]LogWorld: Bringing up level for play took: 0.003170
+[2020.05.05-02.29.28:494][201]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.05.05-02.29.28:497][201]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Simple_Test 0.006
+[2020.05.05-02.29.28:569][202]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095650 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_2', movement 'Walking'
+[2020.05.05-02.29.30:724][389]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.29.30:740][389]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.05-02.29.30:760][389]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.05-02.29.30:760][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.29.30:760][389]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.29.30:760][389]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.29.30:760][389]LogWorld: UWorld::CleanupWorld for Simple_Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-02.29.30:761][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.29.30:779][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-02.29.30:785][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.29.30:826][389]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.29.30:829][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.29.30:835][389]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.05.05-02.29.30:913][390]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.05.05-02.30.01:547][445]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.05.05-02.30.01:557][445]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Switch Weapon' for  InputAction Switch Weapon
+[2020.05.05-02.30.01:557][445]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Reload' for  InputAction Reload
+[2020.05.05-02.30.01:557][445]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2020.05.05-02.30.02:011][445]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.05.05-02.30.03:335][529]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-02.30.03:347][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-02.30.03:347][529]PIE: New page: PIE session: Simple_Test (6/05/2020, 2:30:03 am)
+[2020.05.05-02.30.03:347][529]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.30.03:370][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023422s)
+[2020.05.05-02.30.03:371][529]LogAIModule: Creating AISystem for world Simple_Test
+[2020.05.05-02.30.03:371][529]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2020.05.05-02.30.03:371][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Simple_Test.Simple_Test to /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test (0.024534s)
+[2020.05.05-02.30.03:424][529]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.05.05-02.30.03:425][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-02.30.03:425][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-02.30.03:425][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-02.30.03:425][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-02.30.03:425][529]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-02.30.03:425][529]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-02.30.03:425][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-02.30.03:425][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-02.30.03:426][529]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-02.30.03:426][529]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: Name: Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: Channel Order:
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: 4: BackLeft
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: 5: BackRight
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: 6: SideLeft
+[2020.05.05-02.30.03:438][529]LogAudioMixer: Display: 7: SideRight
+[2020.05.05-02.30.03:454][529]LogAudioMixer: Display: Using Audio Device Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.30.03:456][529]LogInit: FAudioDevice initialized.
+[2020.05.05-02.30.03:462][529]LogLoad: Game class is 'RollerGameMode_C'
+[2020.05.05-02.30.03:465][529]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test up for play (max tick rate 0) at 2020.05.05-14.30.03
+[2020.05.05-02.30.03:466][529]LogWorld: Bringing up level for play took: 0.003095
+[2020.05.05-02.30.03:466][529]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.05.05-02.30.03:469][529]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Simple_Test 0.978
+[2020.05.05-02.30.07:173][861]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.30.07:189][861]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.05-02.30.07:209][861]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.05-02.30.07:209][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.30.07:209][861]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.30.07:209][861]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.30.07:209][861]LogWorld: UWorld::CleanupWorld for Simple_Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-02.30.07:210][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.30.07:229][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-02.30.07:236][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.30.07:281][861]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.30.07:285][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.30.07:291][861]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.05.05-02.30.07:373][862]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.05.05-02.31.05:884][753]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-02.31.05:896][753]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.05-02.31.05:901][753]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2020.05.05-02.31.05:906][753]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Switch Weapon' for  InputAction Switch Weapon
+[2020.05.05-02.31.06:385][753]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.05.05-02.31.06:387][753]LogPlayLevel: PlayLevel: Blueprint regeneration took 490 ms (1 blueprints)
+[2020.05.05-02.31.06:387][753]PIE: New page: PIE session: Simple_Test (6/05/2020, 2:31:06 am)
+[2020.05.05-02.31.06:387][753]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.31.06:411][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023779s)
+[2020.05.05-02.31.06:412][753]LogAIModule: Creating AISystem for world Simple_Test
+[2020.05.05-02.31.06:412][753]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2020.05.05-02.31.06:412][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Simple_Test.Simple_Test to /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test (0.024932s)
+[2020.05.05-02.31.06:466][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.05.05-02.31.06:466][753]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-02.31.06:466][753]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-02.31.06:466][753]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-02.31.06:466][753]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-02.31.06:466][753]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-02.31.06:466][753]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-02.31.06:466][753]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-02.31.06:466][753]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-02.31.06:467][753]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-02.31.06:467][753]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: Name: Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: Channel Order:
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: 4: BackLeft
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: 5: BackRight
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: 6: SideLeft
+[2020.05.05-02.31.06:480][753]LogAudioMixer: Display: 7: SideRight
+[2020.05.05-02.31.06:511][753]LogAudioMixer: Display: Using Audio Device Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.31.06:513][753]LogInit: FAudioDevice initialized.
+[2020.05.05-02.31.06:529][753]LogLoad: Game class is 'RollerGameMode_C'
+[2020.05.05-02.31.06:533][753]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test up for play (max tick rate 0) at 2020.05.05-14.31.06
+[2020.05.05-02.31.06:533][753]LogWorld: Bringing up level for play took: 0.003321
+[2020.05.05-02.31.06:533][753]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.05.05-02.31.06:536][753]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Simple_Test 0.046
+[2020.05.05-02.31.06:615][754]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098465 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_2', movement 'Walking'
+[2020.05.05-02.31.29:820][791]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=22.35 Y=-4.31 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (0 other events since notify)
+[2020.05.05-02.31.30:776][879]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=589.16 Y=-113.51 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (87 other events since notify)
+[2020.05.05-02.31.31:779][968]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=589.16 Y=-113.51 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (88 other events since notify)
+[2020.05.05-02.31.32:785][ 59]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=589.16 Y=-113.51 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (90 other events since notify)
+[2020.05.05-02.31.33:785][149]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=589.16 Y=-113.51 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (89 other events since notify)
+[2020.05.05-02.31.34:793][243]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-526.28 Y=-288.14 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (90 other events since notify)
+[2020.05.05-02.31.35:794][297]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-526.28 Y=-288.14 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (53 other events since notify)
+[2020.05.05-02.31.36:809][354]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-526.28 Y=-288.14 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (56 other events since notify)
+[2020.05.05-02.31.37:809][412]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-526.28 Y=-288.14 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (57 other events since notify)
+[2020.05.05-02.31.38:815][471]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-526.28 Y=-288.14 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (58 other events since notify)
+[2020.05.05-02.31.39:829][526]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-526.28 Y=-288.14 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (51 other events since notify)
+[2020.05.05-02.31.40:837][594]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-526.28 Y=-288.14 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (67 other events since notify)
+[2020.05.05-02.31.41:840][662]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-526.28 Y=-288.14 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (67 other events since notify)
+[2020.05.05-02.31.42:840][725]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-526.28 Y=-288.14 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (62 other events since notify)
+[2020.05.05-02.31.43:843][786]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-526.28 Y=-288.14 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (60 other events since notify)
+[2020.05.05-02.31.44:855][856]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=580.31 Y=-152.43 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (66 other events since notify)
+[2020.05.05-02.31.45:867][921]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=580.31 Y=-152.43 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (64 other events since notify)
+[2020.05.05-02.31.46:868][989]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=580.31 Y=-152.43 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (67 other events since notify)
+[2020.05.05-02.31.47:876][ 51]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=580.31 Y=-152.43 Z=0.00 Location: X=9843.29 Y=-2261.67 Z=-9782.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (61 other events since notify)
+[2020.05.05-02.31.57:713][813]LogRenderer: Reallocating scene render targets to support 1204x692 Format 10 NumSamples 1 (Frame:1).
+[2020.05.05-02.31.57:803][819]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-4.54 Y=-27.74 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.71 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (36 other events since notify)
+[2020.05.05-02.31.58:806][905]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-96.89 Y=-592.13 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (85 other events since notify)
+[2020.05.05-02.31.59:902][986]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-96.89 Y=-592.13 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (78 other events since notify)
+[2020.05.05-02.32.00:907][ 68]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-96.89 Y=-592.13 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (81 other events since notify)
+[2020.05.05-02.32.01:985][148]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-96.89 Y=-592.13 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (73 other events since notify)
+[2020.05.05-02.32.02:992][232]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=576.20 Y=-167.30 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (80 other events since notify)
+[2020.05.05-02.32.03:998][301]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=576.20 Y=-167.30 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (68 other events since notify)
+[2020.05.05-02.32.05:101][370]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=576.20 Y=-167.30 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (62 other events since notify)
+[2020.05.05-02.32.06:106][436]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=576.20 Y=-167.30 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (65 other events since notify)
+[2020.05.05-02.32.07:108][520]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=576.20 Y=-167.30 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (83 other events since notify)
+[2020.05.05-02.32.09:309][686]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-3.75 Y=-22.90 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (8 other events since notify)
+[2020.05.05-02.32.10:315][762]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-96.89 Y=-592.13 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (75 other events since notify)
+[2020.05.05-02.32.11:322][834]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-96.89 Y=-592.13 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (71 other events since notify)
+[2020.05.05-02.32.12:325][910]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-96.89 Y=-592.13 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (75 other events since notify)
+[2020.05.05-02.32.13:396][987]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-96.89 Y=-592.13 Z=0.00 Location: X=9445.41 Y=-2261.06 Z=-9781.72 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (72 other events since notify)
+[2020.05.05-02.32.19:106][406]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-22.17 Y=-12.21 Z=0.00 Location: X=9843.50 Y=-2261.01 Z=-9781.67 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (36 other events since notify)
+[2020.05.05-02.32.20:215][491]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-525.58 Y=-289.43 Z=0.00 Location: X=9843.50 Y=-2261.01 Z=-9781.69 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (76 other events since notify)
+[2020.05.05-02.32.21:222][561]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-525.58 Y=-289.43 Z=0.00 Location: X=9843.50 Y=-2261.01 Z=-9781.69 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (69 other events since notify)
+[2020.05.05-02.32.22:314][653]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-525.58 Y=-289.43 Z=0.00 Location: X=9843.50 Y=-2261.01 Z=-9781.69 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (84 other events since notify)
+[2020.05.05-02.32.23:333][746]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-525.58 Y=-289.43 Z=0.00 Location: X=9843.50 Y=-2261.01 Z=-9781.69 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (92 other events since notify)
+[2020.05.05-02.32.29:193][306]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-8.47 Y=-19.28 Z=0.00 Location: X=9580.76 Y=-2261.00 Z=-9781.69 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (50 other events since notify)
+[2020.05.05-02.32.30:201][395]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-241.28 Y=-549.35 Z=0.00 Location: X=9580.76 Y=-2261.00 Z=-9781.69 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (88 other events since notify)
+[2020.05.05-02.32.31:211][485]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-241.28 Y=-549.35 Z=0.00 Location: X=9580.76 Y=-2261.00 Z=-9781.69 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (89 other events since notify)
+[2020.05.05-02.32.32:215][581]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-241.28 Y=-549.35 Z=0.00 Location: X=9580.76 Y=-2261.00 Z=-9781.69 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (95 other events since notify)
+[2020.05.05-02.32.33:221][667]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-241.28 Y=-549.35 Z=0.00 Location: X=9580.76 Y=-2261.00 Z=-9781.69 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:LoadUnloadMesh2 Component:L1 BoneName:None (85 other events since notify)
+[2020.05.05-02.32.33:910][722]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.32.33:910][722]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.32.33:910][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.32.33:910][722]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.32.33:911][722]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.32.33:911][722]LogWorld: UWorld::CleanupWorld for Simple_Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-02.32.33:911][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.32.33:937][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-02.32.33:943][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.32.33:989][722]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.32.33:993][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.32.33:999][722]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.05.05-02.32.34:050][723]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.05.05-02.33.23:270][ 81]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Guns/DiscLauncher_Gun.DiscLauncher_Gun
+[2020.05.05-02.34.14:164][718]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-02.34.14:176][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-02.34.14:176][718]PIE: New page: PIE session: Simple_Test (6/05/2020, 2:34:14 am)
+[2020.05.05-02.34.14:176][718]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.34.14:200][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024562s)
+[2020.05.05-02.34.14:201][718]LogAIModule: Creating AISystem for world Simple_Test
+[2020.05.05-02.34.14:202][718]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2020.05.05-02.34.14:202][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Simple_Test.Simple_Test to /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test (0.025879s)
+[2020.05.05-02.34.14:255][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.05.05-02.34.14:257][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-02.34.14:257][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-02.34.14:257][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-02.34.14:257][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-02.34.14:257][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-02.34.14:257][718]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-02.34.14:257][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-02.34.14:257][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-02.34.14:258][718]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-02.34.14:258][718]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: Name: Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: Channel Order:
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: 4: BackLeft
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: 5: BackRight
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: 6: SideLeft
+[2020.05.05-02.34.14:270][718]LogAudioMixer: Display: 7: SideRight
+[2020.05.05-02.34.14:286][718]LogAudioMixer: Display: Using Audio Device Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.34.14:288][718]LogInit: FAudioDevice initialized.
+[2020.05.05-02.34.14:300][718]LogLoad: Game class is 'RollerGameMode_C'
+[2020.05.05-02.34.14:303][718]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test up for play (max tick rate 0) at 2020.05.05-14.34.14
+[2020.05.05-02.34.14:303][718]LogWorld: Bringing up level for play took: 0.003031
+[2020.05.05-02.34.14:304][718]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.05.05-02.34.14:307][718]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Simple_Test -0.184
+[2020.05.05-02.34.48:424][592]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.34.48:424][592]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.34.48:424][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.34.48:424][592]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.34.48:424][592]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.34.48:424][592]LogWorld: UWorld::CleanupWorld for Simple_Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-02.34.48:425][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.34.48:442][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-02.34.48:448][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.34.48:501][592]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.34.48:505][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.34.48:513][592]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.05.05-02.34.48:557][593]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.05.05-02.35.40:512][148]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-02.35.40:524][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-02.35.40:524][148]PIE: New page: PIE session: Simple_Test (6/05/2020, 2:35:40 am)
+[2020.05.05-02.35.40:524][148]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.35.40:547][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023329s)
+[2020.05.05-02.35.40:548][148]LogAIModule: Creating AISystem for world Simple_Test
+[2020.05.05-02.35.40:548][148]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2020.05.05-02.35.40:548][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Simple_Test.Simple_Test to /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test (0.024427s)
+[2020.05.05-02.35.40:598][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.05.05-02.35.40:599][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-02.35.40:599][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-02.35.40:599][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-02.35.40:599][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-02.35.40:599][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-02.35.40:599][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-02.35.40:599][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-02.35.40:599][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-02.35.40:599][148]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-02.35.40:599][148]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: Name: Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: Channel Order:
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: 4: BackLeft
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: 5: BackRight
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: 6: SideLeft
+[2020.05.05-02.35.40:611][148]LogAudioMixer: Display: 7: SideRight
+[2020.05.05-02.35.40:627][148]LogAudioMixer: Display: Using Audio Device Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.35.40:628][148]LogInit: FAudioDevice initialized.
+[2020.05.05-02.35.40:638][148]LogLoad: Game class is 'RollerGameMode_C'
+[2020.05.05-02.35.40:641][148]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test up for play (max tick rate 0) at 2020.05.05-14.35.40
+[2020.05.05-02.35.40:642][148]LogWorld: Bringing up level for play took: 0.003309
+[2020.05.05-02.35.40:642][148]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.05.05-02.35.40:645][148]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Simple_Test 0.155
+[2020.05.05-02.35.43:396][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.35.43:396][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.35.43:397][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.35.43:397][415]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.35.43:397][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.35.43:397][415]LogWorld: UWorld::CleanupWorld for Simple_Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-02.35.43:397][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.35.43:411][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-02.35.43:417][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.35.43:464][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.35.43:468][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.35.43:473][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.05.05-02.35.43:522][416]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.05.05-02.35.44:149][470]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-02.35.44:161][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-02.35.44:161][470]PIE: New page: PIE session: Simple_Test (6/05/2020, 2:35:44 am)
+[2020.05.05-02.35.44:161][470]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.35.44:184][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023336s)
+[2020.05.05-02.35.44:185][470]LogAIModule: Creating AISystem for world Simple_Test
+[2020.05.05-02.35.44:186][470]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2020.05.05-02.35.44:186][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Simple_Test.Simple_Test to /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test (0.024452s)
+[2020.05.05-02.35.44:242][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.05.05-02.35.44:243][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-02.35.44:243][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-02.35.44:243][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-02.35.44:243][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-02.35.44:243][470]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-02.35.44:243][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-02.35.44:243][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-02.35.44:243][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-02.35.44:244][470]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-02.35.44:244][470]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: Name: Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: Channel Order:
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: 4: BackLeft
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: 5: BackRight
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: 6: SideLeft
+[2020.05.05-02.35.44:255][470]LogAudioMixer: Display: 7: SideRight
+[2020.05.05-02.35.44:271][470]LogAudioMixer: Display: Using Audio Device Speakers (4- Logitech G933 Gaming Headset)
+[2020.05.05-02.35.44:273][470]LogInit: FAudioDevice initialized.
+[2020.05.05-02.35.44:282][470]LogLoad: Game class is 'RollerGameMode_C'
+[2020.05.05-02.35.44:286][470]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test up for play (max tick rate 0) at 2020.05.05-14.35.44
+[2020.05.05-02.35.44:286][470]LogWorld: Bringing up level for play took: 0.003174
+[2020.05.05-02.35.44:287][470]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.05.05-02.35.44:290][470]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Simple_Test -0.201
+[2020.05.05-02.36.14:212][396]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.36.14:212][396]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.36.14:212][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.36.14:212][396]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Simple_Test
+[2020.05.05-02.36.14:213][396]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.36.14:213][396]LogWorld: UWorld::CleanupWorld for Simple_Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-02.36.14:213][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.36.14:228][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-02.36.14:236][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-02.36.14:287][396]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-02.36.14:291][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-02.36.14:297][396]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.05.05-02.36.14:342][397]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.05.05-02.36.33:432][102]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Guns/Gun_Parent.Gun_Parent
+[2020.05.05-02.37.10:671][216]LogUObjectArray: Warning: Invalid object index 7274604
+[2020.05.05-02.37.10:682][216]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.05-02.37.11:012][216]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.330 s
+[2020.05.05-02.37.11:012][216]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.05-02.37.11:012][216]LogOutputDevice: Error: 
+[2020.05.05-02.37.11:012][216]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.05.05-02.37.11:012][216]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.05.05-02.37.11:012][216]LogOutputDevice: Error: Stack: 
+[2020.05.05-02.37.11:012][216]LogOutputDevice: Error: [Callstack] 0x00007ffb4ecc7b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.05-02.37.11:012][216]LogOutputDevice: Error: [Callstack] 0x00007ffb4e4d678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.05-02.37.11:012][216]LogOutputDevice: Error: [Callstack] 0x00007ffb4e4d704d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb4e4e409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb4b2cc5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb4a24977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb4a201647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb5a47b144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb5a66dc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb5a4c60b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb5a4a46f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb5a498ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb95dd4ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb95dc242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb95dd7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb95dbec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffbc08d5c0d USER32.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffbc08d5602 USER32.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffb95dd8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ff7e2d86db0 UE4Editor.exe!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ff7e2d9c3ec UE4Editor.exe!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ff7e2d9c4ca UE4Editor.exe!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ff7e2daceae UE4Editor.exe!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ff7e2dafcbe UE4Editor.exe!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffbc07d7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: [Callstack] 0x00007ffbc11ace51 ntdll.dll!UnknownFunction []
+[2020.05.05-02.37.11:013][216]LogOutputDevice: Error: 
+[2020.05.05-02.37.11:058][216]LogStats:                SubmitErrorReport -  0.000 s
