@@ -1,0 +1,1490 @@
+﻿Log file open, 02/26/20 14:58:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MoveSkatePhys
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.089348
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Toasty_Faulter -epicuserid=7b48316001254e688bbe7a3da865b4e8 -epiclocale=en
+LogInit: Base Directory: G:/UnrealEngine/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.26-01.58.57:833][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.26-01.58.57:833][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.26-01.58.57:833][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.02.26-01.58.57:833][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.26-01.58.57:833][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.02.26-01.58.57:833][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.02.26-01.58.57:833][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.26-01.58.57:833][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.26-01.58.57:833][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.26-01.58.57:833][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.26-01.58.57:833][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.26-01.58.57:833][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.26-01.58.57:833][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.26-01.58.57:833][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.26-01.58.57:834][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.02.26-01.58.57:834][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.02.26-01.58.57:846][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.26-01.58.57:846][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.26-01.58.57:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.26-01.58.57:848][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:848][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.26-01.58.57:848][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.26-01.58.57:848][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:848][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.26-01.58.57:848][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.26-01.58.57:848][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.26-01.58.57:848][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.26-01.58.57:848][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.26-01.58.57:850][  0]LogHAL: Display: Platform has ~ 16 GB [17108176896 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.26-01.58.57:850][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.26-01.58.57:850][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:850][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.26-01.58.57:850][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.26-01.58.57:850][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:850][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.26-01.58.57:850][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:850][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.26-01.58.57:850][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.26-01.58.57:851][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Scalability.ini]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.26-01.58.57:852][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Games/MoveSkatePhys/Saved/Config/Windows/Engine.ini]
+[2020.02.26-01.58.57:852][  0]LogInit: Computer: DESKTOP-1UBU9KH
+[2020.02.26-01.58.57:852][  0]LogInit: User: batlo
+[2020.02.26-01.58.57:852][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.02.26-01.58.57:852][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.26-01.58.57:853][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.26-01.58.57:853][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.26-01.58.57:853][  0]LogMemory: Process Physical Memory: 109.43 MB used, 109.43 MB peak
+[2020.02.26-01.58.57:853][  0]LogMemory: Process Virtual Memory: 104.57 MB used, 104.57 MB peak
+[2020.02.26-01.58.57:853][  0]LogMemory: Physical Memory: 9094.91 MB used,  7220.72 MB free, 16315.63 MB total
+[2020.02.26-01.58.57:853][  0]LogMemory: Virtual Memory: 5160.29 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.02.26-01.58.57:856][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.26-01.58.57:875][  0]LogInit: Using OS detected language (en-US).
+[2020.02.26-01.58.57:875][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.26-01.58.57:876][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.26-01.58.58:054][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.26-01.58.58:148][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.26-01.58.58:148][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.26-01.58.58:377][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.02.26-01.58.58:377][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.26-01.58.58:377][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.26-01.58.58:377][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.26-01.58.58:544][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2020.02.26-01.58.58:544][  0]LogD3D11RHI:       8011/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2020.02.26-01.58.58:547][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.26-01.58.58:547][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.26-01.58.58:547][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.26-01.58.58:558][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.26-01.58.58:558][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.26-01.58.58:558][  0]LogWindows: EnumDisplayDevices:
+[2020.02.26-01.58.58:558][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2020.02.26-01.58.58:559][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2020.02.26-01.58.58:559][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2020.02.26-01.58.58:560][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2020.02.26-01.58.58:560][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.26-01.58.58:560][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2020.02.26-01.58.58:560][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2020.02.26-01.58.58:560][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2020.02.26-01.58.58:560][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2020.02.26-01.58.58:688][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.26-01.58.58:688][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.26-01.58.58:712][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.26-01.58.59:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.26-01.58.59:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.26-01.58.59:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.26-01.58.59:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.26-01.58.59:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.26-01.58.59:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.26-01.58.59:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.26-01.58.59:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.26-01.58.59:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.26-01.58.59:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.26-01.58.59:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.26-01.58.59:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.26-01.58.59:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.26-01.58.59:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.26-01.58.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.26-01.58.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.26-01.58.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.26-01.58.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.26-01.58.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.26-01.58.59:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.26-01.58.59:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.26-01.58.59:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.26-01.58.59:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.26-01.58.59:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.26-01.58.59:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.26-01.58.59:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.26-01.58.59:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.26-01.58.59:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.26-01.58.59:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.26-01.58.59:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.26-01.58.59:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.26-01.58.59:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.26-01.58.59:254][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.26-01.58.59:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.26-01.58.59:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.26-01.58.59:268][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.26-01.58.59:271][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.26-01.58.59:290][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (E:/Unreal Games/MoveSkatePhys/Intermediate/Shaders/WorkingDirectory/16040/).
+[2020.02.26-01.58.59:290][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/batlo/AppData/Local/Temp/UnrealShaderWorkingDir/65C9568D4F07DF897E9D1EBA0BC40FDB/'.
+[2020.02.26-01.58.59:291][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.26-01.58.59:291][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.26-01.58.59:291][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.26-01.59.00:083][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.26-01.59.00:159][  0]LogDerivedDataCache: Loaded boot cache 0.08s 79MB C:/Users/batlo/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.26-01.59.00:159][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/batlo/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.26-01.59.00:159][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Unreal Games/MoveSkatePhys/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.26-01.59.00:159][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.26-01.59.00:159][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Unreal Games/MoveSkatePhys/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.26-01.59.00:159][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.26-01.59.00:170][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.26-01.59.00:170][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.26-01.59.00:170][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.26-01.59.00:172][  0]LogDerivedDataCache: Using Local data cache path C:/Users/batlo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.26-01.59.00:172][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.26-01.59.00:172][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.26-01.59.00:201][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.26-01.59.00:204][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.26-01.59.00:205][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.26-01.59.00:267][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2020.02.26-01.59.00:579][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.26-01.59.00:741][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.26-01.59.00:741][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.26-01.59.00:741][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.26-01.59.00:741][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.26-01.59.00:741][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.26-01.59.00:761][  0]LogNetVersion: MoveSkatePhys 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1295155464)
+[2020.02.26-01.59.01:959][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.141259 seconds
+[2020.02.26-01.59.01:969][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.02.26-01.59.01:969][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.02.26-01.59.01:969][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.26-01.59.02:438][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.26-01.59.02:488][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.26-01.59.02:540][  0]SourceControl: Source control is disabled
+[2020.02.26-01.59.02:540][  0]SourceControl: Source control is disabled
+[2020.02.26-01.59.02:542][  0]SourceControl: Source control is disabled
+[2020.02.26-01.59.02:543][  0]SourceControl: Source control is disabled
+[2020.02.26-01.59.02:543][  0]SourceControl: Source control is disabled
+[2020.02.26-01.59.02:716][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.26-01.59.02:727][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.26-01.59.02:727][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.26-01.59.02:818][  0]LogOcInput: OculusInput pre-init called
+[2020.02.26-01.59.02:826][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.26-01.59.02:826][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.26-01.59.02:898][  0]LogEngine: Initializing Engine...
+[2020.02.26-01.59.02:950][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.02.26-01.59.02:951][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.26-01.59.03:312][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.26-01.59.03:318][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.26-01.59.03:329][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.26-01.59.03:329][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.26-01.59.03:329][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.26-01.59.03:329][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.26-01.59.03:329][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.26-01.59.03:329][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.26-01.59.03:329][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.26-01.59.03:329][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.26-01.59.03:330][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.26-01.59.03:330][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: Name: Speakers (8- Logitech G533 Gaming Headset)
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: 5: BackRight
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.02.26-01.59.03:488][  0]LogAudioMixer: Display: 7: SideRight
+[2020.02.26-01.59.03:542][  0]LogAudioMixer: Display: Using Audio Device Speakers (8- Logitech G533 Gaming Headset)
+[2020.02.26-01.59.03:546][  0]LogInit: FAudioDevice initialized.
+[2020.02.26-01.59.03:547][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.26-01.59.05:489][  0]LogDerivedDataCache: Saved boot cache 1.94s 78MB C:/Users/batlo/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.26-01.59.05:491][  0]LogInit: Texture streaming: Enabled
+[2020.02.26-01.59.05:502][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.26-01.59.05:502][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.26-01.59.05:505][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.26-01.59.05:523][  0]LogInit: Transaction tracking system initialized
+[2020.02.26-01.59.05:532][  0]BlueprintLog: New page: Editor Load
+[2020.02.26-01.59.05:590][  0]LocalizationService: Localization service is disabled
+[2020.02.26-01.59.05:903][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Games/MoveSkatePhys/Content/' took 0.00s
+[2020.02.26-01.59.05:903][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.26-01.59.05:903][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.26-01.59.06:572][  0]SourceControl: Source control is disabled
+[2020.02.26-01.59.06:573][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 G:/UnrealEngine/UE_4.24/FeaturePacks/StarterContent.upack)
+[2020.02.26-01.59.06:576][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.02.26-01.59.06:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.02.26-01.59.06:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.02.26-01.59.06:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.02.26-01.59.06:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.02.26-01.59.06:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.02.26-01.59.06:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.02.26-01.59.06:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.02.26-01.59.06:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.02.26-01.59.06:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.02.26-01.59.06:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.02.26-01.59.06:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.02.26-01.59.06:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.02.26-01.59.06:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.02.26-01.59.06:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.02.26-01.59.06:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.02.26-01.59.06:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.02.26-01.59.06:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.02.26-01.59.06:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Fire01.uasset"
+[2020.02.26-01.59.06:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.02.26-01.59.06:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.02.26-01.59.06:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.02.26-01.59.06:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Light01.uasset"
+[2020.02.26-01.59.06:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.02.26-01.59.06:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Light02.uasset"
+[2020.02.26-01.59.06:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.02.26-01.59.06:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.02.26-01.59.06:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.02.26-01.59.06:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.02.26-01.59.06:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.02.26-01.59.06:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.02.26-01.59.06:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.02.26-01.59.06:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.02.26-01.59.06:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.02.26-01.59.06:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Steam01.uasset"
+[2020.02.26-01.59.06:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.02.26-01.59.06:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.02.26-01.59.06:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.02.26-01.59.06:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.02.26-01.59.06:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.02.26-01.59.06:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.02.26-01.59.06:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.02.26-01.59.06:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.02.26-01.59.06:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.02.26-01.59.06:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.02.26-01.59.06:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.02.26-01.59.06:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.02.26-01.59.06:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.02.26-01.59.06:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.02.26-01.59.06:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.02.26-01.59.06:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.02.26-01.59.06:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.02.26-01.59.06:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.02.26-01.59.06:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.02.26-01.59.06:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.02.26-01.59.06:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.02.26-01.59.06:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.02.26-01.59.06:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Maps/StarterMap.umap"
+[2020.02.26-01.59.06:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.02.26-01.59.06:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.02.26-01.59.06:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.02.26-01.59.06:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.02.26-01.59.06:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.02.26-01.59.06:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.02.26-01.59.06:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.02.26-01.59.06:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.02.26-01.59.06:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.02.26-01.59.06:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.02.26-01.59.06:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.02.26-01.59.06:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.02.26-01.59.06:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.02.26-01.59.06:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.02.26-01.59.06:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.02.26-01.59.06:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.02.26-01.59.06:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.02.26-01.59.06:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.02.26-01.59.06:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.02.26-01.59.06:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.02.26-01.59.06:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.02.26-01.59.06:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.02.26-01.59.06:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.02.26-01.59.06:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.02.26-01.59.06:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.02.26-01.59.06:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.02.26-01.59.06:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.02.26-01.59.06:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.02.26-01.59.06:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.02.26-01.59.06:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.02.26-01.59.06:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.02.26-01.59.06:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.02.26-01.59.06:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.02.26-01.59.06:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.02.26-01.59.06:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.02.26-01.59.06:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.02.26-01.59.06:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.02.26-01.59.06:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.02.26-01.59.06:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.02.26-01.59.06:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.02.26-01.59.06:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.02.26-01.59.06:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.02.26-01.59.06:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.02.26-01.59.06:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.02.26-01.59.06:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.02.26-01.59.06:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.02.26-01.59.06:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.02.26-01.59.06:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.02.26-01.59.06:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.02.26-01.59.06:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.02.26-01.59.06:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.02.26-01.59.06:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.02.26-01.59.06:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.02.26-01.59.06:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.02.26-01.59.06:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.02.26-01.59.06:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.02.26-01.59.06:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.02.26-01.59.06:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.02.26-01.59.06:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.02.26-01.59.06:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.02.26-01.59.06:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.02.26-01.59.06:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.02.26-01.59.06:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.02.26-01.59.06:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.02.26-01.59.06:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.02.26-01.59.06:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_Door.uasset"
+[2020.02.26-01.59.06:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.02.26-01.59.06:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.02.26-01.59.06:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.02.26-01.59.06:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.02.26-01.59.06:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.02.26-01.59.06:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.02.26-01.59.06:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.02.26-01.59.06:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.02.26-01.59.06:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.02.26-01.59.06:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.02.26-01.59.06:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.02.26-01.59.06:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.02.26-01.59.06:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.02.26-01.59.06:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.02.26-01.59.06:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.02.26-01.59.06:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.02.26-01.59.06:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.02.26-01.59.06:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.02.26-01.59.06:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.02.26-01.59.06:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.02.26-01.59.06:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.02.26-01.59.06:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.02.26-01.59.06:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.02.26-01.59.06:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.02.26-01.59.06:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.02.26-01.59.06:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.02.26-01.59.06:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.02.26-01.59.06:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.02.26-01.59.06:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.02.26-01.59.06:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.02.26-01.59.06:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.02.26-01.59.06:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.02.26-01.59.06:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.02.26-01.59.06:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.02.26-01.59.06:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.02.26-01.59.06:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.02.26-01.59.06:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.02.26-01.59.06:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.02.26-01.59.06:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.02.26-01.59.06:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.02.26-01.59.06:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.02.26-01.59.06:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.02.26-01.59.06:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.02.26-01.59.06:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.02.26-01.59.06:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.02.26-01.59.06:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.02.26-01.59.06:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.02.26-01.59.06:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.02.26-01.59.06:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.02.26-01.59.06:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.02.26-01.59.06:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.02.26-01.59.06:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.02.26-01.59.07:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.02.26-01.59.07:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.02.26-01.59.07:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.02.26-01.59.07:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.02.26-01.59.07:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.02.26-01.59.07:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.02.26-01.59.07:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.02.26-01.59.07:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.02.26-01.59.07:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.02.26-01.59.07:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.02.26-01.59.07:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.02.26-01.59.07:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.02.26-01.59.07:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.02.26-01.59.07:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.02.26-01.59.07:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.02.26-01.59.07:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.02.26-01.59.07:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.02.26-01.59.07:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.02.26-01.59.07:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.02.26-01.59.07:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.02.26-01.59.07:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.02.26-01.59.07:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.02.26-01.59.07:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.02.26-01.59.07:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.02.26-01.59.07:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.02.26-01.59.07:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.02.26-01.59.07:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.02.26-01.59.07:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.02.26-01.59.07:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.02.26-01.59.07:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.02.26-01.59.07:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.02.26-01.59.07:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.02.26-01.59.07:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.02.26-01.59.07:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.02.26-01.59.07:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.02.26-01.59.07:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.02.26-01.59.07:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.02.26-01.59.07:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.02.26-01.59.07:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.02.26-01.59.07:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.02.26-01.59.07:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.02.26-01.59.07:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.02.26-01.59.07:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.02.26-01.59.07:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.02.26-01.59.07:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.02.26-01.59.07:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.02.26-01.59.07:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.02.26-01.59.07:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.02.26-01.59.07:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.02.26-01.59.07:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.02.26-01.59.07:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.02.26-01.59.07:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.02.26-01.59.07:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.02.26-01.59.07:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.02.26-01.59.07:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.02.26-01.59.07:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.02.26-01.59.07:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.02.26-01.59.07:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.02.26-01.59.07:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.02.26-01.59.07:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.02.26-01.59.07:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.02.26-01.59.07:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.02.26-01.59.07:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.02.26-01.59.07:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.02.26-01.59.07:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.02.26-01.59.07:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.02.26-01.59.07:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.02.26-01.59.07:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.02.26-01.59.07:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.02.26-01.59.07:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.02.26-01.59.07:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.02.26-01.59.07:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.02.26-01.59.07:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.02.26-01.59.07:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.02.26-01.59.07:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.02.26-01.59.07:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.02.26-01.59.07:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.02.26-01.59.07:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.02.26-01.59.07:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.02.26-01.59.07:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.02.26-01.59.07:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.02.26-01.59.07:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.02.26-01.59.07:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.02.26-01.59.07:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.02.26-01.59.07:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.02.26-01.59.07:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.02.26-01.59.07:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.02.26-01.59.07:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.02.26-01.59.07:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.02.26-01.59.07:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.02.26-01.59.07:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.02.26-01.59.07:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.02.26-01.59.07:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.02.26-01.59.07:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.02.26-01.59.07:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.02.26-01.59.07:501][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.02.26-01.59.07:581][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2020.02.26-01.59.07:605][  0]LogSavePackage: Moving 'E:/Unreal Games/MoveSkatePhys/Saved/Floor_400x4006A4D399C41677F384FC26B9CE1091319.tmp' to 'E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.02.26-01.59.07:607][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2020.02.26-01.59.07:608][  0]Cmd: MAP LOAD FILE="E:/Unreal Games/MoveSkatePhys/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.26-01.59.07:609][  0]LightingResults: New page: Lighting Build
+[2020.02.26-01.59.07:610][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.26-01.59.07:610][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-01.59.07:610][  0]MapCheck: New page: Map Check
+[2020.02.26-01.59.07:610][  0]LightingResults: New page: Lighting Build
+[2020.02.26-01.59.07:649][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.26-01.59.08:064][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.02.26-01.59.08:071][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.26-01.59.08:109][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.02.26-01.59.08:109][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.26-01.59.08:109][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2020.02.26-01.59.08:110][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.501
+[2020.02.26-01.59.08:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-01.59.08:242][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-01.59.08:248][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-01.59.08:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-01.59.08:259][  0]LogCollectionManager: Loaded 0 collections in 0.000826 seconds
+[2020.02.26-01.59.09:163][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Games/MoveSkatePhys/Saved/Collections/' took 0.00s
+[2020.02.26-01.59.09:163][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Games/MoveSkatePhys/Content/Developers/batlo/Collections/' took 0.00s
+[2020.02.26-01.59.09:163][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Games/MoveSkatePhys/Content/Collections/' took 0.00s
+[2020.02.26-01.59.09:163][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 3015 classes and 717 folders.
+[2020.02.26-01.59.09:166][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.26-01.59.09:220][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.26-01.59.09:224][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.02.26-01.59.09:253][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.26-01.59.09:256][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.26-01.59.09:260][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.26-01.59.09:324][  0]LogRenderer: Reallocating scene render targets to support 1628x752 Format 10 NumSamples 1 (Frame:1).
+[2020.02.26-01.59.09:450][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.26-01.59.09:450][  0]LogLoad: (Engine Initialization) Total time: 13.67 seconds
+[2020.02.26-01.59.09:450][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.26-01.59.09:472][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2020.02.26-01.59.09:472][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.02.26-01.59.09:977][  0]LogAssetRegistry: Asset discovery search completed in 9.7104 seconds
+[2020.02.26-01.59.09:981][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.02.26-01.59.13:673][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.26-01.59.13:696][  1]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.02.26-01.59.14:582][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2020.02.26-01.59.43:376][360]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.26-01.59.58:571][360]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.26-02.00.25:551][553]LogObjectTools: Deleting 1 worlds: /Game/Blueprints/NewWorld.NewWorld
+[2020.02.26-02.00.25:551][553]LogObjectTools: Currently 3 active worlds: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2020.02.26-02.00.25:589][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.26-02.00.26:800][553]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.26-02.00.26:821][553]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.02.26-02.00.26:821][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-02.00.26:890][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.02.26-02.00.45:638][713]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Simple_Test.Simple_Test
+[2020.02.26-02.00.45:679][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.26-02.00.48:154][713]LogSlate: Window 'Save Content' being destroyed
+[2020.02.26-02.00.48:163][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Phys_Roller" FILE="E:/Unreal Games/MoveSkatePhys/Content/Blueprints/Phys_Roller.uasset" SILENT=true
+[2020.02.26-02.00.48:173][713]LogSavePackage: Moving 'E:/Unreal Games/MoveSkatePhys/Saved/Phys_RollerB71C2C274ADA5BB300DCCDAA6C7CEC18.tmp' to 'E:/Unreal Games/MoveSkatePhys/Content/Blueprints/Phys_Roller.uasset'
+[2020.02.26-02.00.48:176][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Simple_Test" FILE="E:/Unreal Games/MoveSkatePhys/Content/Levels/Simple_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.26-02.00.48:215][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.26-02.00.48:219][713]LogSavePackage: Moving 'E:/Unreal Games/MoveSkatePhys/Saved/Simple_Test0E83EFAB4BEDA89DF6C2E09E68AA4FF9.tmp' to 'E:/Unreal Games/MoveSkatePhys/Content/Levels/Simple_Test.umap'
+[2020.02.26-02.00.48:220][713]LogFileHelpers: Saving map 'Simple_Test' took 0.045
+[2020.02.26-02.00.48:221][713]Cmd: MAP LOAD FILE="E:/Unreal Games/MoveSkatePhys/Content/Levels/Simple_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.26-02.00.48:222][713]LightingResults: New page: Lighting Build
+[2020.02.26-02.00.48:222][713]LoadErrors: New page: Loading map: Simple_Test.umap
+[2020.02.26-02.00.48:223][713]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.02.26-02.00.48:223][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-02.00.48:223][713]MapCheck: New page: Map Check
+[2020.02.26-02.00.48:223][713]LightingResults: New page: Lighting Build
+[2020.02.26-02.00.48:264][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.02.26-02.00.48:265][713]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.26-02.00.48:265][713]LogAIModule: Creating AISystem for world Simple_Test
+[2020.02.26-02.00.48:305][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.26-02.00.48:315][713]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.26-02.00.48:315][713]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2020.02.26-02.00.48:315][713]LogFileHelpers: Loading map 'Simple_Test' took 0.094
+[2020.02.26-02.00.48:347][713]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.26-02.00.48:347][713]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Phys_Roller.Phys_Roller
+[2020.02.26-02.00.48:347][713]LogContentValidation: Display: Validating World /Game/Levels/Simple_Test.Simple_Test
+[2020.02.26-02.00.58:258][876]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.26-02.01.13:351][634]LogRenderer: Reallocating scene render targets to support 1628x768 Format 10 NumSamples 1 (Frame:2979).
+[2020.02.26-02.01.13:401][635]LogRenderer: Reallocating scene render targets to support 1628x788 Format 10 NumSamples 1 (Frame:2981).
+[2020.02.26-02.01.13:456][636]LogRenderer: Reallocating scene render targets to support 1628x828 Format 10 NumSamples 1 (Frame:2983).
+[2020.02.26-02.01.13:506][637]LogRenderer: Reallocating scene render targets to support 1628x860 Format 10 NumSamples 1 (Frame:2985).
+[2020.02.26-02.01.13:553][638]LogRenderer: Reallocating scene render targets to support 1628x888 Format 10 NumSamples 1 (Frame:2987).
+[2020.02.26-02.01.13:603][639]LogRenderer: Reallocating scene render targets to support 1628x904 Format 10 NumSamples 1 (Frame:2989).
+[2020.02.26-02.01.13:658][640]LogRenderer: Reallocating scene render targets to support 1628x924 Format 10 NumSamples 1 (Frame:2991).
+[2020.02.26-02.01.13:707][641]LogRenderer: Reallocating scene render targets to support 1628x952 Format 10 NumSamples 1 (Frame:2993).
+[2020.02.26-02.01.13:757][642]LogRenderer: Reallocating scene render targets to support 1628x964 Format 10 NumSamples 1 (Frame:2995).
+[2020.02.26-02.01.13:806][643]LogRenderer: Reallocating scene render targets to support 1628x980 Format 10 NumSamples 1 (Frame:2997).
+[2020.02.26-02.01.13:852][644]LogRenderer: Reallocating scene render targets to support 1628x984 Format 10 NumSamples 1 (Frame:2999).
+[2020.02.26-02.01.13:899][645]LogRenderer: Reallocating scene render targets to support 1628x996 Format 10 NumSamples 1 (Frame:3001).
+[2020.02.26-02.01.13:947][646]LogRenderer: Reallocating scene render targets to support 1628x1000 Format 10 NumSamples 1 (Frame:3003).
+[2020.02.26-02.01.14:042][650]LogRenderer: Reallocating scene render targets to support 1628x1004 Format 10 NumSamples 1 (Frame:3007).
+[2020.02.26-02.01.14:126][652]LogRenderer: Reallocating scene render targets to support 1628x1008 Format 10 NumSamples 1 (Frame:3011).
+[2020.02.26-02.01.16:224][887]LogRenderer: Reallocating scene render targets to support 1644x1008 Format 10 NumSamples 1 (Frame:3231).
+[2020.02.26-02.01.16:277][888]LogRenderer: Reallocating scene render targets to support 1652x1008 Format 10 NumSamples 1 (Frame:3233).
+[2020.02.26-02.01.16:329][889]LogRenderer: Reallocating scene render targets to support 1668x1008 Format 10 NumSamples 1 (Frame:3235).
+[2020.02.26-02.01.16:378][890]LogRenderer: Reallocating scene render targets to support 1684x1008 Format 10 NumSamples 1 (Frame:3237).
+[2020.02.26-02.01.16:430][891]LogRenderer: Reallocating scene render targets to support 1704x1008 Format 10 NumSamples 1 (Frame:3239).
+[2020.02.26-02.01.16:480][892]LogRenderer: Reallocating scene render targets to support 1728x1008 Format 10 NumSamples 1 (Frame:3241).
+[2020.02.26-02.01.16:529][893]LogRenderer: Reallocating scene render targets to support 1756x1008 Format 10 NumSamples 1 (Frame:3243).
+[2020.02.26-02.01.16:579][894]LogRenderer: Reallocating scene render targets to support 1764x1008 Format 10 NumSamples 1 (Frame:3245).
+[2020.02.26-02.01.16:627][895]LogRenderer: Reallocating scene render targets to support 1772x1008 Format 10 NumSamples 1 (Frame:3247).
+[2020.02.26-02.01.16:711][897]LogRenderer: Reallocating scene render targets to support 1776x1008 Format 10 NumSamples 1 (Frame:3251).
+[2020.02.26-02.01.16:795][899]LogRenderer: Reallocating scene render targets to support 1780x1008 Format 10 NumSamples 1 (Frame:3255).
+[2020.02.26-02.01.16:843][900]LogRenderer: Reallocating scene render targets to support 1784x1008 Format 10 NumSamples 1 (Frame:3257).
+[2020.02.26-02.01.16:889][901]LogRenderer: Reallocating scene render targets to support 1796x1008 Format 10 NumSamples 1 (Frame:3259).
+[2020.02.26-02.01.16:941][902]LogRenderer: Reallocating scene render targets to support 1804x1008 Format 10 NumSamples 1 (Frame:3261).
+[2020.02.26-02.01.16:993][903]LogRenderer: Reallocating scene render targets to support 1812x1008 Format 10 NumSamples 1 (Frame:3263).
+[2020.02.26-02.01.17:039][904]LogRenderer: Reallocating scene render targets to support 1820x1008 Format 10 NumSamples 1 (Frame:3265).
+[2020.02.26-02.01.17:085][905]LogRenderer: Reallocating scene render targets to support 1824x1008 Format 10 NumSamples 1 (Frame:3267).
+[2020.02.26-02.01.17:171][907]LogRenderer: Reallocating scene render targets to support 1828x1008 Format 10 NumSamples 1 (Frame:3271).
+[2020.02.26-02.01.17:218][908]LogRenderer: Reallocating scene render targets to support 1832x1008 Format 10 NumSamples 1 (Frame:3273).
+[2020.02.26-02.01.17:306][910]LogRenderer: Reallocating scene render targets to support 1836x1008 Format 10 NumSamples 1 (Frame:3277).
+[2020.02.26-02.01.17:389][912]LogRenderer: Reallocating scene render targets to support 1840x1008 Format 10 NumSamples 1 (Frame:3281).
+[2020.02.26-02.01.23:281][511]LogRenderer: Reallocating scene render targets to support 1880x1008 Format 10 NumSamples 1 (Frame:3829).
+[2020.02.26-02.01.23:339][512]LogRenderer: Reallocating scene render targets to support 1920x1008 Format 10 NumSamples 1 (Frame:3831).
+[2020.02.26-02.01.23:397][513]LogRenderer: Reallocating scene render targets to support 1976x1008 Format 10 NumSamples 1 (Frame:3833).
+[2020.02.26-02.01.23:452][514]LogRenderer: Reallocating scene render targets to support 2036x1008 Format 10 NumSamples 1 (Frame:3835).
+[2020.02.26-02.01.23:509][515]LogRenderer: Reallocating scene render targets to support 2052x1008 Format 10 NumSamples 1 (Frame:3837).
+[2020.02.26-02.01.23:569][516]LogRenderer: Reallocating scene render targets to support 2056x1008 Format 10 NumSamples 1 (Frame:3839).
+[2020.02.26-02.01.23:615][517]LogRenderer: Reallocating scene render targets to support 2068x1008 Format 10 NumSamples 1 (Frame:3841).
+[2020.02.26-02.01.32:731][483]LogRenderer: Reallocating scene render targets to support 2068x1012 Format 10 NumSamples 1 (Frame:4931).
+[2020.02.26-02.01.32:780][484]LogRenderer: Reallocating scene render targets to support 2068x1020 Format 10 NumSamples 1 (Frame:4933).
+[2020.02.26-02.01.32:827][485]LogRenderer: Reallocating scene render targets to support 2068x1028 Format 10 NumSamples 1 (Frame:4935).
+[2020.02.26-02.01.32:879][486]LogRenderer: Reallocating scene render targets to support 2068x1036 Format 10 NumSamples 1 (Frame:4937).
+[2020.02.26-02.01.32:928][487]LogRenderer: Reallocating scene render targets to support 2068x1044 Format 10 NumSamples 1 (Frame:4939).
+[2020.02.26-02.01.33:018][489]LogRenderer: Reallocating scene render targets to support 2068x1048 Format 10 NumSamples 1 (Frame:4943).
+[2020.02.26-02.02.20:845][ 21]Cmd: DELETE
+[2020.02.26-02.02.20:845][ 21]Cmd: ACTOR DELETE
+[2020.02.26-02.02.20:855][ 21]LogEditorActor: Deleted Actor: SkyLight
+[2020.02.26-02.02.20:893][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.02.26-02.02.20:895][ 21]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.02.26-02.02.35:969][807]LogEditorViewport: Clicking Background
+[2020.02.26-02.02.37:567][996]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.02.26-02.03.01:653][717]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.02.26-02.03.04:302][ 31]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.02.26-02.03.04:871][ 97]Cmd: DELETE
+[2020.02.26-02.03.04:871][ 97]Cmd: ACTOR DELETE
+[2020.02.26-02.03.04:872][ 97]LogEditorActor: Deleted Actor: SkyLight
+[2020.02.26-02.03.04:911][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.02.26-02.03.04:912][ 97]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.02.26-02.03.41:100][243]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.02.26-02.03.51:611][461]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2020.02.26-02.04.38:407][884]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.26-02.05.54:528][657]LogEditorViewport: Clicking Background
+[2020.02.26-02.06.01:390][429]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.26-02.06.22:099][686]Cmd: TRANSACTION UNDO
+[2020.02.26-02.06.22:099][686]LogEditorTransaction: Undo Edit Outer Radius
+[2020.02.26-02.07.20:123][337]LogEditorViewport: Clicking Background
+[2020.02.26-02.07.26:417][ 67]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.02.26-02.07.55:665][413]Cmd: EDIT COPY
+[2020.02.26-02.07.55:906][441]Cmd: EDIT PASTE
+[2020.02.26-02.08.19:583][224]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.19:583][224]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.08.48:327][552]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.48:327][552]LogEditorTransaction: Undo Scale Actors
+[2020.02.26-02.08.49:122][610]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.49:122][610]LogEditorTransaction: Undo Scale Actors
+[2020.02.26-02.08.49:594][662]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.49:594][662]LogEditorTransaction: Undo Paste
+[2020.02.26-02.08.52:848][ 39]LogActorFactory: Actor Factory created Cylinder
+[2020.02.26-02.08.54:089][159]LogActorFactory: Actor Factory created Cylinder
+[2020.02.26-02.08.54:692][225]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.54:692][225]LogEditorTransaction: Undo Create Actors
+[2020.02.26-02.08.56:458][400]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.56:458][400]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.26-02.08.57:097][470]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.57:097][470]LogEditorTransaction: Undo Rotate Actors
+[2020.02.26-02.08.57:442][510]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.57:442][510]LogEditorTransaction: Undo Rotate Actors
+[2020.02.26-02.08.57:753][547]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.57:753][547]LogEditorTransaction: Undo Rotate Actors
+[2020.02.26-02.08.58:129][592]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.58:129][592]LogEditorTransaction: Undo Rotate Actors
+[2020.02.26-02.08.58:439][629]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.58:440][629]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.26-02.08.58:727][663]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.58:727][663]LogEditorTransaction: Undo Clicking Background
+[2020.02.26-02.08.59:031][693]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.59:031][693]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.26-02.08.59:397][732]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.59:397][732]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.08.59:754][769]Cmd: TRANSACTION UNDO
+[2020.02.26-02.08.59:754][769]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.09.00:064][802]Cmd: TRANSACTION UNDO
+[2020.02.26-02.09.00:064][802]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.09.00:381][836]Cmd: TRANSACTION UNDO
+[2020.02.26-02.09.00:382][836]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.09.00:639][863]Cmd: TRANSACTION UNDO
+[2020.02.26-02.09.00:639][863]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.09.00:830][882]Cmd: TRANSACTION UNDO
+[2020.02.26-02.09.00:830][882]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.09.00:981][896]Cmd: TRANSACTION UNDO
+[2020.02.26-02.09.00:981][896]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.09.02:214][ 39]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.02:214][ 39]LogEditorTransaction: Redo Move Actors
+[2020.02.26-02.09.02:368][ 52]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.02:368][ 52]LogEditorTransaction: Redo Move Actors
+[2020.02.26-02.09.02:509][ 65]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.02:509][ 65]LogEditorTransaction: Redo Move Actors
+[2020.02.26-02.09.02:660][ 79]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.02:660][ 79]LogEditorTransaction: Redo Move Actors
+[2020.02.26-02.09.02:813][ 93]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.02:813][ 93]LogEditorTransaction: Redo Move Actors
+[2020.02.26-02.09.02:987][110]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.02:987][110]LogEditorTransaction: Redo Move Actors
+[2020.02.26-02.09.03:234][136]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.03:234][136]LogEditorTransaction: Redo Move Actors
+[2020.02.26-02.09.03:380][150]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.03:381][150]LogEditorTransaction: Redo Select Brush Surface
+[2020.02.26-02.09.03:538][164]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.03:538][164]LogEditorTransaction: Redo Clicking Background
+[2020.02.26-02.09.03:815][195]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.03:815][195]LogEditorTransaction: Redo Clicking on Actors
+[2020.02.26-02.09.03:977][210]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.03:977][210]LogEditorTransaction: Redo Rotate Actors
+[2020.02.26-02.09.04:148][229]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.04:148][229]LogEditorTransaction: Redo Rotate Actors
+[2020.02.26-02.09.04:692][294]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.04:692][294]LogEditorTransaction: Redo Rotate Actors
+[2020.02.26-02.09.05:102][343]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.05:102][343]LogEditorTransaction: Redo Rotate Actors
+[2020.02.26-02.09.05:587][401]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.05:587][401]LogEditorTransaction: Redo Select Brush Surface
+[2020.02.26-02.09.06:123][460]Cmd: TRANSACTION REDO
+[2020.02.26-02.09.06:123][460]LogEditorTransaction: Redo Create Actors
+[2020.02.26-02.09.07:555][624]Cmd: TRANSACTION UNDO
+[2020.02.26-02.09.07:555][624]LogEditorTransaction: Undo Create Actors
+[2020.02.26-02.09.08:616][745]Cmd: DELETE
+[2020.02.26-02.09.08:616][745]Cmd: ACTOR DELETE
+[2020.02.26-02.09.08:621][745]LogEditorActor: Deleted Actor: Brush
+[2020.02.26-02.09.08:659][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.26-02.09.08:667][745]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.02.26-02.09.11:950][128]LogActorFactory: Actor Factory created Cylinder
+[2020.02.26-02.09.12:736][211]LogActorFactory: Actor Factory created Cylinder
+[2020.02.26-02.09.15:179][499]Cmd: TRANSACTION UNDO
+[2020.02.26-02.09.15:179][499]LogEditorTransaction: Undo Create Actors
+[2020.02.26-02.09.17:495][728]LogActorFactory: Actor Factory created Cylinder
+[2020.02.26-02.09.18:761][868]LogActorFactory: Actor Factory created Cylinder
+[2020.02.26-02.10.18:907][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.26-02.10.21:751][ 37]Cmd: EDIT COPY
+[2020.02.26-02.10.21:954][ 61]Cmd: EDIT PASTE
+[2020.02.26-02.10.28:341][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.26-02.10.30:107][ 19]Cmd: TRANSACTION UNDO
+[2020.02.26-02.10.30:107][ 19]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.26-02.10.41:333][301]Cmd: TRANSACTION UNDO
+[2020.02.26-02.10.41:333][301]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.11.55:897][938]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.55:897][938]LogEditorTransaction: Undo Scale Actors
+[2020.02.26-02.11.56:080][947]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.56:080][947]LogEditorTransaction: Undo Scale Actors
+[2020.02.26-02.11.56:227][954]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.56:227][954]LogEditorTransaction: Undo Scale Actors
+[2020.02.26-02.11.56:367][961]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.56:367][961]LogEditorTransaction: Undo Scale Actors
+[2020.02.26-02.11.56:492][973]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.56:493][973]LogEditorTransaction: Undo Paste
+[2020.02.26-02.11.56:635][985]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.56:635][985]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.11.56:789][  2]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.56:789][  2]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.11.56:933][ 19]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.56:933][ 19]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.11.57:076][ 36]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.57:076][ 36]LogEditorTransaction: Undo Scale Actors
+[2020.02.26-02.11.57:222][ 53]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.57:222][ 53]LogEditorTransaction: Undo Scale Actors
+[2020.02.26-02.11.57:383][ 72]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.57:383][ 72]LogEditorTransaction: Undo Scale Actors
+[2020.02.26-02.11.57:526][ 89]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.57:526][ 89]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.11.57:682][107]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.57:682][107]LogEditorTransaction: Undo Scale Actors
+[2020.02.26-02.11.57:844][126]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.57:844][126]LogEditorTransaction: Undo Rotate Actors
+[2020.02.26-02.11.58:220][169]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.58:220][169]LogEditorTransaction: Undo Move Actors
+[2020.02.26-02.11.58:476][199]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.58:476][199]LogEditorTransaction: Undo Create Actors
+[2020.02.26-02.11.58:898][248]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.58:898][248]LogEditorTransaction: Undo Delete Actors
+[2020.02.26-02.11.59:812][353]Cmd: TRANSACTION UNDO
+[2020.02.26-02.11.59:812][353]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.26-02.12.00:355][410]Cmd: TRANSACTION UNDO
+[2020.02.26-02.12.00:355][410]LogEditorTransaction: Undo Rotate Actors
+[2020.02.26-02.12.00:743][456]Cmd: TRANSACTION UNDO
+[2020.02.26-02.12.00:743][456]LogEditorTransaction: Undo Rotate Actors
+[2020.02.26-02.12.01:219][513]Cmd: TRANSACTION UNDO
+[2020.02.26-02.12.01:219][513]LogEditorTransaction: Undo Rotate Actors
+[2020.02.26-02.12.02:262][638]Cmd: TRANSACTION REDO
+[2020.02.26-02.12.02:262][638]LogEditorTransaction: Redo Rotate Actors
+[2020.02.26-02.12.02:394][653]Cmd: TRANSACTION REDO
+[2020.02.26-02.12.02:394][653]LogEditorTransaction: Redo Rotate Actors
+[2020.02.26-02.12.02:537][670]Cmd: TRANSACTION REDO
+[2020.02.26-02.12.02:537][670]LogEditorTransaction: Redo Rotate Actors
+[2020.02.26-02.12.02:955][720]Cmd: TRANSACTION REDO
+[2020.02.26-02.12.02:955][720]LogEditorTransaction: Redo Select Brush Surface
+[2020.02.26-02.12.06:666][141]Cmd: EDIT COPY
+[2020.02.26-02.12.06:854][163]Cmd: EDIT PASTE
+[2020.02.26-02.12.21:478][868]LogEditorViewport: Clicking Background
+[2020.02.26-02.12.35:586][511]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.26-02.14.01:884][256]LogEditorViewport: Clicking Background
+[2020.02.26-02.14.11:120][343]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.02.26-02.14.30:690][647]Cmd: EDIT COPY
+[2020.02.26-02.14.30:877][669]Cmd: EDIT PASTE
+[2020.02.26-02.15.00:349][ 41]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Simple_Test.Simple_Test:PersistentLevel.ModelComponent_844' invalid (698 verts, 0 indices).
+[2020.02.26-02.15.00:349][ 41]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Simple_Test.Simple_Test:PersistentLevel.ModelComponent_844.BodySetup_0 when we are unable to.
+[2020.02.26-02.15.16:901][960]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Simple_Test.Simple_Test:PersistentLevel.ModelComponent_893' invalid (682 verts, 0 indices).
+[2020.02.26-02.15.16:901][960]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Simple_Test.Simple_Test:PersistentLevel.ModelComponent_893.BodySetup_0 when we are unable to.
+[2020.02.26-02.15.27:725][219]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Simple_Test.Simple_Test:PersistentLevel.ModelComponent_902' invalid (682 verts, 0 indices).
+[2020.02.26-02.15.27:725][219]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Simple_Test.Simple_Test:PersistentLevel.ModelComponent_902.BodySetup_0 when we are unable to.
+[2020.02.26-02.15.33:177][846]LogEditorViewport: Clicking Background
+[2020.02.26-02.15.59:321][874]Cmd: EDIT COPY
+[2020.02.26-02.15.59:545][900]Cmd: EDIT PASTE
+[2020.02.26-02.16.36:831][100]LogEditorViewport: Clicking Background
+[2020.02.26-02.16.44:963][ 51]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.02.26-02.17.12:365][224]LogEditorViewport: Clicking Background
+[2020.02.26-02.17.14:385][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Simple_Test" FILE="E:/Unreal Games/MoveSkatePhys/Content/Levels/Simple_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.26-02.17.14:427][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.02.26-02.17.14:489][457]LogSavePackage: Moving 'E:/Unreal Games/MoveSkatePhys/Saved/Simple_TestC324AFD24F34086167041BBF8C834D6F.tmp' to 'E:/Unreal Games/MoveSkatePhys/Content/Levels/Simple_Test.umap'
+[2020.02.26-02.17.14:528][457]AssetCheck: New page: Asset Save: Simple_Test
+[2020.02.26-02.17.14:528][457]LogContentValidation: Display: Validating World /Game/Levels/Simple_Test.Simple_Test
+[2020.02.26-02.17.50:505][535]Cmd: TRANSACTION UNDO
+[2020.02.26-02.17.50:505][535]LogEditorTransaction: Undo Create Actors
+[2020.02.26-02.18.22:615][179]Cmd: EDIT COPY
+[2020.02.26-02.18.22:826][198]Cmd: EDIT PASTE
+[2020.02.26-02.18.38:413][908]LogEditorViewport: Clicking Background
+[2020.02.26-02.18.40:915][171]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.26-02.18.40:922][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.26-02.18.40:922][171]PIE: New page: PIE session: Simple_Test (Feb 27, 2020, 4:18:40 AM)
+[2020.02.26-02.18.40:923][171]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.26-02.18.40:924][171]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.26-02.18.40:924][171]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Simple_Test
+[2020.02.26-02.18.40:936][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011741s)
+[2020.02.26-02.18.40:937][171]LogAIModule: Creating AISystem for world Simple_Test
+[2020.02.26-02.18.40:937][171]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2020.02.26-02.18.40:937][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Simple_Test.Simple_Test to /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test (0.012860s)
+[2020.02.26-02.18.40:984][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.02.26-02.18.40:987][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.26-02.18.40:988][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.26-02.18.40:988][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.26-02.18.40:988][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.26-02.18.40:988][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.26-02.18.40:988][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.26-02.18.40:988][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.26-02.18.40:988][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.26-02.18.40:988][171]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.26-02.18.40:988][171]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: Name: Speakers (8- Logitech G533 Gaming Headset)
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: Is Default: Yes
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: Channel Order:
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: 1: FrontRight
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: 4: BackLeft
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: 5: BackRight
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: 6: SideLeft
+[2020.02.26-02.18.41:142][171]LogAudioMixer: Display: 7: SideRight
+[2020.02.26-02.18.41:179][171]LogAudioMixer: Display: Using Audio Device Speakers (8- Logitech G533 Gaming Headset)
+[2020.02.26-02.18.41:181][171]LogInit: FAudioDevice initialized.
+[2020.02.26-02.18.41:188][171]LogLoad: Game class is 'GameModeBase'
+[2020.02.26-02.18.41:189][171]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test up for play (max tick rate 0) at 2020.02.26-15.18.41
+[2020.02.26-02.18.41:189][171]LogWorld: Bringing up level for play took: 0.000744
+[2020.02.26-02.18.41:189][171]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.02.26-02.18.41:195][171]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.02.26-02.18.41:196][171]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Simple_Test 0.274
+[2020.02.26-02.18.43:847][485]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.18.43:847][485]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.18.43:847][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-02.18.43:848][485]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Simple_Test
+[2020.02.26-02.18.43:848][485]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.18.43:848][485]LogWorld: UWorld::CleanupWorld for Simple_Test, bSessionEnded=true, bCleanupResources=true
+[2020.02.26-02.18.43:848][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-02.18.43:859][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.26-02.18.43:862][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-02.18.43:898][485]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.18.43:902][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-02.18.43:905][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.26-02.18.43:956][487]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.26-02.18.45:862][687]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2020.02.26-02.19.15:818][138]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2020.02.26-02.19.40:797][ 71]LogEditorViewport: Clicking Background
+[2020.02.26-02.19.43:846][396]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2020.02.26-02.20.05:306][898]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2020.02.26-02.20.06:068][973]Cmd: DELETE
+[2020.02.26-02.20.06:068][973]Cmd: ACTOR DELETE
+[2020.02.26-02.20.06:072][973]LogEditorActor: Deleted Actor: SpotLight
+[2020.02.26-02.20.06:110][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.26-02.20.06:111][973]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.02.26-02.20.07:903][164]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2020.02.26-02.20.08:568][232]Cmd: EDIT COPY
+[2020.02.26-02.20.08:737][252]Cmd: EDIT PASTE
+[2020.02.26-02.20.25:092][ 97]LogEditorViewport: Clicking Background
+[2020.02.26-02.20.27:807][406]LogEditorViewport: Clicking Background
+[2020.02.26-02.20.29:507][590]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.26-02.20.29:514][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.26-02.20.29:514][590]PIE: New page: PIE session: Simple_Test (Feb 27, 2020, 4:20:29 AM)
+[2020.02.26-02.20.29:514][590]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Simple_Test
+[2020.02.26-02.20.29:525][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011188s)
+[2020.02.26-02.20.29:526][590]LogAIModule: Creating AISystem for world Simple_Test
+[2020.02.26-02.20.29:526][590]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2020.02.26-02.20.29:526][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Simple_Test.Simple_Test to /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test (0.012206s)
+[2020.02.26-02.20.29:565][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.26-02.20.29:566][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.26-02.20.29:566][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.26-02.20.29:566][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.26-02.20.29:566][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.26-02.20.29:566][590]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.26-02.20.29:566][590]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.26-02.20.29:566][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.26-02.20.29:566][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.26-02.20.29:567][590]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.26-02.20.29:567][590]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: Name: Speakers (8- Logitech G533 Gaming Headset)
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: Is Default: Yes
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: Channel Order:
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: 1: FrontRight
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: 4: BackLeft
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: 5: BackRight
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: 6: SideLeft
+[2020.02.26-02.20.29:720][590]LogAudioMixer: Display: 7: SideRight
+[2020.02.26-02.20.29:757][590]LogAudioMixer: Display: Using Audio Device Speakers (8- Logitech G533 Gaming Headset)
+[2020.02.26-02.20.29:759][590]LogInit: FAudioDevice initialized.
+[2020.02.26-02.20.29:767][590]LogLoad: Game class is 'GameModeBase'
+[2020.02.26-02.20.29:768][590]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test up for play (max tick rate 0) at 2020.02.26-15.20.29
+[2020.02.26-02.20.29:769][590]LogWorld: Bringing up level for play took: 0.000991
+[2020.02.26-02.20.29:769][590]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.02.26-02.20.29:771][590]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Simple_Test 0.849
+[2020.02.26-02.20.38:521][638]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.20.38:522][638]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.20.38:522][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-02.20.38:522][638]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Simple_Test
+[2020.02.26-02.20.38:522][638]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.20.38:522][638]LogWorld: UWorld::CleanupWorld for Simple_Test, bSessionEnded=true, bCleanupResources=true
+[2020.02.26-02.20.38:522][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-02.20.38:530][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.26-02.20.38:533][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-02.20.38:571][638]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.20.38:575][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-02.20.38:577][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.02.26-02.20.38:624][640]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.26-02.20.42:566][ 99]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Phys_Roller.Phys_Roller
+[2020.02.26-02.20.42:730][ 99]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.02.26-02.20.57:517][467]LogLinker: Warning: Failed to load '/Game/RollingBP/Blueprints/PhysicsBallBP': Can't find file.
+[2020.02.26-02.20.57:517][467]LogLinker: Warning: Failed to load '/Game/RollingBP/Blueprints/PhysicsBallBP': Can't find file.
+[2020.02.26-02.20.57:517][467]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/RollingBP/Blueprints/PhysicsBallBP.PhysicsBallBP'
+[2020.02.26-02.21.24:824][605]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.26-02.22.31:420][ 53]LogRenderer: Reallocating scene render targets to support 2068x1060 Format 10 NumSamples 1 (Frame:9080).
+[2020.02.26-02.22.31:482][ 54]LogRenderer: Reallocating scene render targets to support 2068x1072 Format 10 NumSamples 1 (Frame:9082).
+[2020.02.26-02.22.31:548][ 55]LogRenderer: Reallocating scene render targets to support 2068x1092 Format 10 NumSamples 1 (Frame:9084).
+[2020.02.26-02.22.31:606][ 56]LogRenderer: Reallocating scene render targets to support 2068x1112 Format 10 NumSamples 1 (Frame:9086).
+[2020.02.26-02.22.31:665][ 57]LogRenderer: Reallocating scene render targets to support 2068x1120 Format 10 NumSamples 1 (Frame:9088).
+[2020.02.26-02.22.31:727][ 58]LogRenderer: Reallocating scene render targets to support 2068x1124 Format 10 NumSamples 1 (Frame:9090).
+[2020.02.26-02.22.31:786][ 59]LogRenderer: Reallocating scene render targets to support 2068x1132 Format 10 NumSamples 1 (Frame:9092).
+[2020.02.26-02.22.31:846][ 60]LogRenderer: Reallocating scene render targets to support 2068x1140 Format 10 NumSamples 1 (Frame:9094).
+[2020.02.26-02.22.31:905][ 61]LogRenderer: Reallocating scene render targets to support 2068x1144 Format 10 NumSamples 1 (Frame:9096).
+[2020.02.26-02.22.32:016][ 63]LogRenderer: Reallocating scene render targets to support 2068x1148 Format 10 NumSamples 1 (Frame:9100).
+[2020.02.26-02.24.23:077][118]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.26-02.24.23:453][131]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.26-02.24.23:913][170]LogEditorTransaction: Undo Add Component
+[2020.02.26-02.24.27:517][551]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.26-02.24.28:607][643]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.26-02.24.28:954][680]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.26-02.24.29:230][711]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.26-02.24.29:783][776]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.26-02.24.30:214][826]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.26-02.24.30:537][863]LogEditorTransaction: Undo Add Component
+[2020.02.26-02.24.53:382][170]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.26-02.24.56:333][448]LogEditorTransaction: Undo Add Component
+[2020.02.26-02.25.33:942][580]LogEditorTransaction: Undo Add Component
+[2020.02.26-02.25.34:871][653]LogEditorTransaction: Undo Add Component
+[2020.02.26-02.27.05:477][853]LogSlate: Window 'Phys_Roller' being destroyed
+[2020.02.26-02.27.05:492][853]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.26-02.27.05:492][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-02.28.11:929][604]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.02.26-02.28.11:959][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Simple_Test" FILE="E:/Unreal Games/MoveSkatePhys/Saved/Autosaves/Game/Levels/Simple_Test_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.26-02.28.12:003][604]LogSavePackage: Moving 'E:/Unreal Games/MoveSkatePhys/Saved/Simple_Test_Auto185550DA3455C1B87F33817A502E2E91D.tmp' to 'E:/Unreal Games/MoveSkatePhys/Saved/Autosaves/Game/Levels/Simple_Test_Auto1.umap'
+[2020.02.26-02.28.12:004][604]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Simple_Test' took 0.180
+[2020.02.26-02.28.12:004][604]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.180
+[2020.02.26-02.28.12:005][604]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Phys_Roller] ([1] browsable assets)...
+[2020.02.26-02.28.12:017][604]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Phys_Roller.Phys_Roller]
+[2020.02.26-02.28.12:018][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Phys_Roller]
+[2020.02.26-02.28.12:019][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Phys_Roller" FILE="E:/Unreal Games/MoveSkatePhys/Saved/Autosaves/Game/Blueprints/Phys_Roller_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.02.26-02.28.12:035][604]LogSavePackage: Moving 'E:/Unreal Games/MoveSkatePhys/Saved/Phys_Roller_Auto1F4A085B841754DF60A4143AD907E8A3F.tmp' to 'E:/Unreal Games/MoveSkatePhys/Saved/Autosaves/Game/Blueprints/Phys_Roller_Auto1.uasset'
+[2020.02.26-02.28.12:036][604]LogFileHelpers: Auto-saving content packages took 0.031
+[2020.02.26-02.32.27:693][373]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Phys_Roller.Phys_Roller
+[2020.02.26-02.32.28:106][373]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.26-02.33.54:960][121]LogSlate: Took 0.001174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.26-02.34.40:118][456]BlueprintLog: New page: Compile Phys_Roller
+[2020.02.26-02.34.40:121][456]LogBlueprint: Warning: [Compiler Phys_Roller] Could not find a variable named "Ball" in 'Phys_Roller_C'.
+Make sure 'Phys_Roller_C' has been compiled for  Get Ball
+[2020.02.26-02.34.40:122][456]LogBlueprint: Error: [Compiler Phys_Roller] The property associated with  Ball  could not be found in '/Game/Blueprints/Phys_Roller.Phys_Roller_C'
+[2020.02.26-02.34.40:437][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.02.26-02.34.58:642][501]BlueprintLog: New page: Compile Phys_Roller
+[2020.02.26-02.34.58:884][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.02.26-02.36.59:794][310]BlueprintLog: New page: Compile Phys_Roller
+[2020.02.26-02.37.00:031][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.02.26-02.37.10:169][387]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.26-02.37.10:179][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.26-02.37.10:180][387]PIE: New page: PIE session: Simple_Test (Feb 27, 2020, 4:37:10 AM)
+[2020.02.26-02.37.10:180][387]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Simple_Test
+[2020.02.26-02.37.10:190][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011308s)
+[2020.02.26-02.37.10:191][387]LogAIModule: Creating AISystem for world Simple_Test
+[2020.02.26-02.37.10:191][387]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2020.02.26-02.37.10:191][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Simple_Test.Simple_Test to /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test (0.012363s)
+[2020.02.26-02.37.10:236][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.02.26-02.37.10:239][387]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.26-02.37.10:239][387]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.26-02.37.10:239][387]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.26-02.37.10:239][387]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.26-02.37.10:239][387]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.26-02.37.10:239][387]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.26-02.37.10:239][387]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.26-02.37.10:239][387]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.26-02.37.10:239][387]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.26-02.37.10:239][387]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: Name: Speakers (8- Logitech G533 Gaming Headset)
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: Is Default: Yes
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: Channel Order:
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: 1: FrontRight
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: 4: BackLeft
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: 5: BackRight
+[2020.02.26-02.37.10:389][387]LogAudioMixer: Display: 6: SideLeft
+[2020.02.26-02.37.10:390][387]LogAudioMixer: Display: 7: SideRight
+[2020.02.26-02.37.10:426][387]LogAudioMixer: Display: Using Audio Device Speakers (8- Logitech G533 Gaming Headset)
+[2020.02.26-02.37.10:428][387]LogInit: FAudioDevice initialized.
+[2020.02.26-02.37.10:437][387]LogLoad: Game class is 'GameModeBase'
+[2020.02.26-02.37.10:438][387]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test up for play (max tick rate 0) at 2020.02.26-15.37.10
+[2020.02.26-02.37.10:441][387]LogWorld: Bringing up level for play took: 0.002796
+[2020.02.26-02.37.10:441][387]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.02.26-02.37.10:443][387]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Simple_Test -0.48
+[2020.02.26-02.37.15:801][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.37.15:801][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.37.15:801][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-02.37.15:801][ 27]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Simple_Test
+[2020.02.26-02.37.15:801][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.37.15:801][ 27]LogWorld: UWorld::CleanupWorld for Simple_Test, bSessionEnded=true, bCleanupResources=true
+[2020.02.26-02.37.15:801][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-02.37.15:811][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.26-02.37.15:815][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-02.37.15:849][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.37.15:856][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-02.37.15:860][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.02.26-02.37.15:906][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.26-02.37.17:137][176]LogEditorViewport: Clicking on Actor (LMB): Phys_Roller_C (Phys_Roller)
+[2020.02.26-02.37.37:494][300]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.26-02.37.37:502][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.26-02.37.37:502][300]PIE: New page: PIE session: Simple_Test (Feb 27, 2020, 4:37:37 AM)
+[2020.02.26-02.37.37:502][300]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Simple_Test
+[2020.02.26-02.37.37:513][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011576s)
+[2020.02.26-02.37.37:514][300]LogAIModule: Creating AISystem for world Simple_Test
+[2020.02.26-02.37.37:514][300]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2020.02.26-02.37.37:514][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Simple_Test.Simple_Test to /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test (0.012566s)
+[2020.02.26-02.37.37:551][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.02.26-02.37.37:555][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.26-02.37.37:555][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.26-02.37.37:555][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.26-02.37.37:555][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.26-02.37.37:555][300]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.26-02.37.37:555][300]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.26-02.37.37:555][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.26-02.37.37:555][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.26-02.37.37:555][300]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.26-02.37.37:555][300]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: Name: Speakers (8- Logitech G533 Gaming Headset)
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: Is Default: Yes
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: Channel Order:
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: 1: FrontRight
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: 4: BackLeft
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: 5: BackRight
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: 6: SideLeft
+[2020.02.26-02.37.37:706][300]LogAudioMixer: Display: 7: SideRight
+[2020.02.26-02.37.37:742][300]LogAudioMixer: Display: Using Audio Device Speakers (8- Logitech G533 Gaming Headset)
+[2020.02.26-02.37.37:743][300]LogInit: FAudioDevice initialized.
+[2020.02.26-02.37.37:756][300]LogLoad: Game class is 'GameModeBase'
+[2020.02.26-02.37.37:757][300]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Simple_Test.Simple_Test up for play (max tick rate 0) at 2020.02.26-15.37.37
+[2020.02.26-02.37.37:757][300]LogWorld: Bringing up level for play took: 0.000875
+[2020.02.26-02.37.37:757][300]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.02.26-02.37.37:759][300]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Simple_Test 0.836
+[2020.02.26-02.37.40:075][575]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.37.40:075][575]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.37.40:075][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-02.37.40:075][575]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Simple_Test
+[2020.02.26-02.37.40:075][575]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.37.40:075][575]LogWorld: UWorld::CleanupWorld for Simple_Test, bSessionEnded=true, bCleanupResources=true
+[2020.02.26-02.37.40:075][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-02.37.40:084][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.26-02.37.40:089][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-02.37.40:126][575]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-02.37.40:129][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-02.37.40:133][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.02.26-02.37.40:180][580]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.26-02.38.35:511][575]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.26-02.39.29:633][ 71]LogSlate: Window 'Create New GameMode' being destroyed
+[2020.02.26-02.39.32:761][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.02.26-02.39.32:764][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Simple_Test" FILE="E:/Unreal Games/MoveSkatePhys/Saved/Autosaves/Game/Levels/Simple_Test_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.26-02.39.32:845][421]LogSavePackage: Moving 'E:/Unreal Games/MoveSkatePhys/Saved/Simple_Test_Auto294A2972F4275C4A8AB7F71AE51A1AE2D.tmp' to 'E:/Unreal Games/MoveSkatePhys/Saved/Autosaves/Game/Levels/Simple_Test_Auto2.umap'
+[2020.02.26-02.39.32:847][421]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Simple_Test' took 0.125
+[2020.02.26-02.39.32:847][421]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.125
+[2020.02.26-02.39.32:847][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Phys_Roller] ([1] browsable assets)...
+[2020.02.26-02.39.32:857][421]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Phys_Roller.Phys_Roller]
+[2020.02.26-02.39.32:857][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Phys_Roller]
+[2020.02.26-02.39.32:857][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Phys_Roller" FILE="E:/Unreal Games/MoveSkatePhys/Saved/Autosaves/Game/Blueprints/Phys_Roller_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.02.26-02.39.32:880][421]LogSavePackage: Moving 'E:/Unreal Games/MoveSkatePhys/Saved/Phys_Roller_Auto2889A69D744D30752BFE3EDA72E64CACD.tmp' to 'E:/Unreal Games/MoveSkatePhys/Saved/Autosaves/Game/Blueprints/Phys_Roller_Auto2.uasset'
+[2020.02.26-02.39.32:881][421]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/RollerGameMode] ([1] browsable assets)...
+[2020.02.26-02.39.32:881][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/RollerGameMode]
+[2020.02.26-02.39.32:881][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/RollerGameMode" FILE="E:/Unreal Games/MoveSkatePhys/Saved/Autosaves/Game/Blueprints/RollerGameMode_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.02.26-02.39.32:887][421]LogSavePackage: Moving 'E:/Unreal Games/MoveSkatePhys/Saved/RollerGameMode_Auto20BC979814EC9C1CB57389582DEDBF1D9.tmp' to 'E:/Unreal Games/MoveSkatePhys/Saved/Autosaves/Game/Blueprints/RollerGameMode_Auto2.uasset'
+[2020.02.26-02.39.32:888][421]LogFileHelpers: Auto-saving content packages took 0.041
+[2020.02.26-02.39.34:113][561]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/RollerGameMode.RollerGameMode
+[2020.02.26-02.39.47:263][438]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.26-02.41.39:093][871]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.02.26-02.41.39:094][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-02.41.49:457][292]LogSlate: Window 'Phys_Roller' being destroyed
+[2020.02.26-02.42.34:217][596]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/RollerGameMode.RollerGameMode
