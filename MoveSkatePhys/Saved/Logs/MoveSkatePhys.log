@@ -1023,3 +1023,7 @@ Script call stack:
 [2020.05.19-06.18.44:153][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.05.19-06.18.44:165][961]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
 [2020.05.19-06.18.44:193][962]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.05.19-06.27.27:234][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.05.19-06.27.27:286][604]LogSavePackage: Moving 'F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Simple_Test_Auto1F0078B234B27B40E530665A10EBBB7AD.tmp' to 'F:/Unreal Crap/Github/BSE-Killer-Round-19071/MoveSkatePhys/Saved/Autosaves/Game/Levels/Simple_Test_Auto1.umap'
+[2020.05.19-06.27.27:291][604]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Simple_Test' took 0.106
+[2020.05.19-06.27.27:291][604]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.106
